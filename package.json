@@ -5,7 +5,7 @@
   "main": "zource.py",
   "scripts": {
     "start": "python3 zource.py",
-    "test": "python3 -m pytest tests/",
+    "test": "python3 -m pytest test_zource.py",
     "lint": "python3 -m pylint zource.py"
   },
   "keywords": [
