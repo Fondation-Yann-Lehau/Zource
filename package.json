@@ -1,0 +1,24 @@
+{
+  "name": "zource",
+  "version": "1.0.0",
+  "description": "International Telecommunications Union Resource Management System - A complete and unique system for managing telecommunications resources",
+  "main": "zource.py",
+  "scripts": {
+    "start": "python3 zource.py",
+    "test": "python3 -m pytest tests/",
+    "lint": "python3 -m pylint zource.py"
+  },
+  "keywords": [
+    "telecommunications",
+    "ITU",
+    "frequency-management",
+    "resource-allocation",
+    "spectrum-management"
+  ],
+  "author": "Fondation Yann Lehau",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fondation-Yann-Lehau/Zource"
+  }
+}

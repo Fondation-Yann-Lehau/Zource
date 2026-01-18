@@ -1,0 +1,26 @@
+{
+  "resources": [
+    {
+      "resource_id": "EXPORT-TEST-001",
+      "frequency_band": "UHF",
+      "service_type": "MOBILE",
+      "country_code": "TST",
+      "allocated_date": "2026-01-18",
+      "frequency_range": [
+        800.0,
+        900.0
+      ],
+      "description": "Test Export Resource",
+      "is_active": true
+    }
+  ],
+  "history": [
+    {
+      "timestamp": "2026-01-18T23:46:58.982968",
+      "action": "ALLOCATED",
+      "resource_id": "EXPORT-TEST-001",
+      "country_code": "TST",
+      "service_type": "MOBILE"
+    }
+  ]
+}

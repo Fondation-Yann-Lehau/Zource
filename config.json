@@ -1,0 +1,41 @@
+{
+  "system_config": {
+    "name": "Zource ITU Resource Management",
+    "version": "1.0.0",
+    "default_country": "INT",
+    "enable_conflict_detection": true,
+    "enable_logging": true
+  },
+  "sample_resources": [
+    {
+      "resource_id": "INT-SAT-001",
+      "frequency_band": "SHF",
+      "service_type": "SATELLITE",
+      "country_code": "INT",
+      "allocated_date": "2026-01-18",
+      "frequency_range": [11700.0, 12200.0],
+      "description": "International Satellite Broadcasting - Ku Band Downlink",
+      "is_active": true
+    },
+    {
+      "resource_id": "INT-AMA-001",
+      "frequency_band": "HF",
+      "service_type": "AMATEUR",
+      "country_code": "INT",
+      "allocated_date": "2026-01-18",
+      "frequency_range": [14.0, 14.35],
+      "description": "Amateur Radio 20m Band",
+      "is_active": true
+    },
+    {
+      "resource_id": "INT-AST-001",
+      "frequency_band": "EHF",
+      "service_type": "RADIO_ASTRONOMY",
+      "country_code": "INT",
+      "allocated_date": "2026-01-18",
+      "frequency_range": [76000.0, 77000.0],
+      "description": "Radio Astronomy Observations",
+      "is_active": true
+    }
+  ]
+}
