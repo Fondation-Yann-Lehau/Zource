@@ -1,0 +1,45 @@
+STRATÉGIES LANGAGIÈRES HTML - UNION INTERNATIONALE DES TÉLÉCOMMUNICATIONS
+===========================================================================
+
+1. DÉCLARATION DE LANGUE (lang attribute)
+   - Utiliser l'attribut lang sur l'élément <html>
+   - Format: <html lang="fr"> pour français
+   - Codes ISO 639-1 standards
+
+2. ENCODAGE DE CARACTÈRES (charset)
+   - Déclarer UTF-8 pour support international
+   - <meta charset="UTF-8">
+   - Placer en début de <head>
+
+3. DIRECTION DU TEXTE (dir attribute)
+   - dir="ltr" pour langues gauche-à-droite
+   - dir="rtl" pour langues droite-à-gauche (arabe, hébreu)
+   - dir="auto" pour détection automatique
+
+4. BALISES DE LANGUE MULTIPLES
+   - <span lang="en">English text</span>
+   - <span lang="ar">نص عربي</span>
+   - <span lang="zh">中文文本</span>
+
+5. MÉTADONNÉES MULTILINGUES
+   - <meta name="language" content="French">
+   - <meta http-equiv="content-language" content="fr">
+
+6. ATTRIBUTS TRANSLATE
+   - translate="yes" pour contenu traduisible
+   - translate="no" pour contenu à ne pas traduire (noms propres, code)
+
+7. ACCESSIBILITÉ LINGUISTIQUE
+   - Utiliser hreflang pour liens alternatifs
+   - <link rel="alternate" hreflang="en" href="/en/">
+   - Importante pour SEO international
+
+8. BDI et BDO pour texte bidirectionnel
+   - <bdi> pour isolation bidirectionnelle
+   - <bdo dir="rtl"> pour override direction
+
+Exemples pratiques:
+- Document français: <html lang="fr" dir="ltr">
+- Document arabe: <html lang="ar" dir="rtl">
+- Document mixte: utiliser lang sur éléments spécifiques
+- Document multilingue: combiner plusieurs stratégies
