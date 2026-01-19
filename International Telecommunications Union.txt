@@ -1,0 +1,1999 @@
+<html dir="ltr" lang="fr-FR"><head id="ctl00_Head1">
+        <!--<meta name="google-site-verification" content="F8qi7hvEFEFOIFmbgDrAZSdB_O-BAeeZIh7XZB9RlqU" />-->
+        <meta http-equiv="X-UA-Compatible" content="IE=10"><meta charset="utf-8"><meta name="GENERATOR" content="Microsoft SharePoint"><meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0">
+		
+        <!-- ===== STARTER: Robots  ======================================================================================================= -->
+        
+		
+		<!-- ===== STARTER: Page Title loaded from page or page layout ==================================================================== -->
+		<title>
+	ITU: Connecting the world and beyond
+</title>
+		
+		<!-- ===== STARTER: SP Scripts and CSS  =========================================================================================== -->
+		<style type="text/css" data-themingsource="/_layouts/15/1033/styles/Themable/corev15.css?rev=UP2nlZLed9gOy%2BMP38oz0A%3D%3DTAG0" data-original-href="/_layouts/15/1033/styles/Themable/corev15.css?rev=UP2nlZLed9gOy%2BMP38oz0A%3D%3DTAG0"></style><link id="CssRegistration1" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=UP2nlZLed9gOy%2BMP38oz0A%3D%3DTAG0">
+<style type="text/css" data-themingsource="/Style Library/ituv2.css" data-original-href="/Style Library/ituv2.css"></style><link id="CssLink-cd5066c38bc9435cac507dea00e5730d" rel="stylesheet" type="text/css" href="/Style%20Library/ituv2.css">
+<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-2692144.js?sv=7"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-T69008QZXS&amp;cx=c&amp;gtm=4e61e1"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M2LC5X5"></script><script type="text/javascript">// <![CDATA[ 
+
+var g_SPOffSwitches={};
+// ]]>
+</script>
+<script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=IsT9DKzRadquUK2U7yADNg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=7M051im2VZYuo3LYANMFNw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/theming.js?rev=SuLUbbwTXcxFWOWLFUsOkw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=u0dJMJBkSP4O90WEXjB8tUsWcB4BkV1jcweKd0FQdWO1x_N4-b754DaUl0PyjIvH9dPv4FFVPF2dJluTb89h54Dfa2pwZptViRIaJIVjDLbUrUcJ88KLnUdteAM2jIKg9-wVf3m1CQ7uI6cPbtQUJKv8zoRZ5TxEwzNQbI19jOz70D-BC-K6cgFKPpAD94Z70&amp;t=32e5dfca"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=u2TIeRLoD1hltvd38VWMSA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=FQlq4QX5WsTXFIgYiWTenUSIA9WRG0BOpnjcR_lNfhqiakwHmsy6xgj_d2FNBTl_mP5Ua3Y2odF4iUTQjuP1dbJ1KzEY6vb2j6sAHtPsTLpE3x20xGTgZRPV6VuJ1e27zuTTOfzzZYA9HmmeU38wKpYJ_U23f4yQpYdXoXFvK90B7Q97xZfRE30hOjhzmoXM0&amp;t=32e5dfca"></script>
+<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=bv3fWJhk0uFGpVwBxnZKNQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=SQ5LvE8Ql\u00252BdPzOdXUHU7Bg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f1033\u002fsp.res.js?rev=FnWveYddVjlqQYS2ZBOOzA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=xgQHsn1FsKBngYIk51bWIQ\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=oiJteNzaQ8klkWPYVvSu\u00252BQ\u00253D\u00253DTAG0");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=m6TwNy21vIIhzFD8Z3ignw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=M\u00252B9IwfmIAPa2xaLAAO9MVQ\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=4hoPdZ7sKMJ2VcMHohg0sQ\u00253D\u00253DTAG0");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=m0qWcCf\u00252BM13mCr83q77aAA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=j6z6zGMkc7SQymi6LH04Pg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=o\u00252FLnahtJs0rDtYqEk6G7iA\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=\u00252BxaR9ZE\u00252FzgxsUaXsb2kAtQ\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=LZwTkS\u00252BBTbNEMKc\u00252B\u00252Bsodag\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=hUXyTdE8XM7mhVtoXRshDg\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=CE1xxq82scGzoUrhuMIaDg\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=OI6nlIZVY3NhH3EQOIp0XA\u00253D\u00253DTAG0");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=cjAX4rdnBAcUWg6Xq5IAVQ\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=A\u00252FdfJj5iYAD\u00252Bm9rYFWJfkQ\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=k10F79xdN89oVxkX8\u00252BMw4Q\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=ZPF5pyZEU32c\u00252BygyZ5kPuw\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
+<link type="text/xml" rel="alternate" href="/fr/_vti_bin/spsdisco.aspx">
+	
+		<!-- ===== STARTER: Core SharePoint CSS =========================================================================================== -->
+		
+
+<!-- ITU template starts : language INdependent -->
+<link rel="shortcut icon" type="image/x-icon" href="/PublishingImages/masterpage/logos/itu-favicon.ico"><link rel="apple-touch-icon" href="/PublishingImages/masterpage/logos/apple-57.png"><link rel="apple-touch-icon" sizes="72x72" href="/PublishingImages/masterpage/logos/apple-72.png"><link rel="apple-touch-icon" sizes="114x114" href="/PublishingImages/masterpage/logos/apple-114.png">
+<!-- Facebook Open Graph tags: first 2 are required, can use fb:admins and/or fb:app_id -->
+<meta property="og:site_name" content="ITU"><meta property="og:fb:admins"><meta property="og:image" content="https://www.itu.int/net4/ITU-D/images/logos/itu-logo-social-sharing.jpg"> 
+
+<!-- will need to fill this out or change it to fb:app_id 
+<meta property="og:title" content="PAGE TITLE GOES HERE" /><meta property="og:description" content="META DESCRIPTION GOES HERE" /><meta property="og:url" content="PAGE URL GOES HERE" /><meta property="og:type" content="company" /><meta property="og:image" /> -->
+
+<link rel="stylesheet" href="/Style Library/itu-base.css" type="text/css" media="all"><link rel="stylesheet" href="/Style Library/itu-main.css" type="text/css" media="all">
+
+<!-- Added by Rajani Vepa on 10 Feb 2015  the lines below -->
+
+<script type="text/javascript" src="/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.16.min.js"></script>
+
+
+<script type="text/javascript" src="/js/itu-functions.js"></script>
+<script type="text/javascript" src="/js/itu-own-functions.js"></script>
+<!-- ITU template ends -->
+
+		<!-- ===== STARTER: Additional header placeholder - overridden by asp:content on pages or page layouts  =========================== -->
+		
+	<link rel="stylesheet" type="text/css" href="/Style%20Library/ms-rteCustom-ITUv6.css">
+	<style type="text/css">
+	#pagetitle{ display:none; }
+	#breadcrumb{ display:none; }
+</style>
+<script type="text/javascript">
+function resizesHomeCentreBand()
+{
+	var var1 = (($('.wrapper').width() - $('#home-centre-band').width())/2) + 'px';
+	$('#home-centre-band').css('margin-right', '-' + var1);
+	$('#home-centre-band').css('margin-left', '-' + var1);
+	$('#home-centre-band').css('padding-right', var1);
+	$('#home-centre-band').css('padding-left', var1);
+}
+ExecuteOrDelayUntilScriptLoaded(function () { SP.UI.Workspace.add_resized(resizesHomeCentreBand); }, "init.js");
+</script>
+<meta name="description" content="The United Nations agency for digital technologies"><meta name="keywords" content="International Telecommunication Union, Radiocommunication, Standardization, Development, Emerging Technologies, ITU, ITU UN, AI for Good,  Space sustainbility, ITU News"><link rel="canonical" href="https://www.itu.int:443/fr/Pages/default.aspx">
+    
+<!-- ITU template starts : language dependent -->
+<link rel="stylesheet" href="/Style Library/itu-french.css" type="text/css" media="all">
+<!-- ITU template ends -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121074739-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		
+		  gtag('config', 'UA-121074739-1');
+		</script>
+			<!-- Google Tag Manager -->
+			<script>
+			    (function (w, d, s, l, i) {
+			        w[l] = w[l] || []; w[l].push({
+			            'gtm.start':
+			            new Date().getTime(), event: 'gtm.js'
+			        }); var f = d.getElementsByTagName(s)[0],
+			            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+			                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+			    })(window, document, 'script', 'dataLayer', 'GTM-M2LC5X5');
+			</script>			
+			<!-- End Google Tag Manager -->
+			
+			<!-- Hotjar Tracking Code for https://www.itu.int/en/Pages/default.aspx -->
+			<script>
+			     (function(h,o,t,j,a,r){
+				        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+				        h._hjSettings={hjid:768571,hjsv:6};
+				        a=o.getElementsByTagName('head')[0];
+				        r=o.createElement('script');r.async=1;
+				        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+				        a.appendChild(r);
+				    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    		</script><script async="" src="https://static.hotjar.com/c/hotjar-768571.js?sv=6"></script>
+
+		<style type="text/css">
+.style1 {
+	text-align: right;
+}
+</style>
+	<script src="https://static.addtoany.com/menu/modules/core.oafg07ee.js" type="module"></script><script src="https://www.google.com/cse/static/element/f71e4ed980f4c082/cse_element__en.js?usqp=CAI%3D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/cse/static/element/f71e4ed980f4c082/default+en.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/v4/default.css" rel="stylesheet"><script async="" src="https://script.hotjar.com/modules.5af39c695063f61775c4.js" charset="utf-8"></script><style type="text/css">.a2a_hide{display:none}.a2a_logo_color{background-color:#0166ff}.a2a_menu,.a2a_menu *{-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;float:none;margin:0;padding:0;position:static;height:auto;width:auto}.a2a_menu{border-radius:6px;display:none;direction:ltr;background:#FFF;font:16px sans-serif-light,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Arial,Helvetica,"Liberation Sans",sans-serif;color:#000;line-height:12px;border:1px solid #CCC;vertical-align:baseline;overflow:hidden}.a2a_mini{min-width:200px;position:absolute;width:300px;z-index:9999997}.a2a_overlay{display:none;background:#616c7deb;backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);position:fixed;top:0;right:0;left:0;bottom:0;z-index:9999998;-webkit-tap-highlight-color:transparent;transition:opacity .14s,backdrop-filter .14s}.a2a_full{background:#FFF;border:1px solid #FFF;box-shadow:#2a2a2a1a 0 0 20px 10px;height:auto;height:calc(320px);top:15%;left:50%;margin-left:-320px;position:fixed;text-align:center;width:640px;z-index:9999999;transition:transform .14s,opacity .14s}.a2a_full_footer,.a2a_full_header,.a2a_full_services{border:0;margin:0;padding:12px;box-sizing:border-box}.a2a_full_header{padding-bottom:8px}.a2a_full_services{height:280px;overflow-y:scroll;padding:0 12px;-webkit-overflow-scrolling:touch}.a2a_full_services .a2a_i{display:inline-block;float:none;width:181px;width:calc(33.334% - 18px)}div.a2a_full_footer{font-size:12px;text-align:center;padding:8px 14px}div.a2a_full_footer a,div.a2a_full_footer a:visited{display:inline;font-size:12px;line-height:14px;padding:8px 14px}div.a2a_full_footer a:focus,div.a2a_full_footer a:hover{background:0 0;border:0;color:#0166FF}div.a2a_full_footer a span.a2a_s_a2a,div.a2a_full_footer a span.a2a_w_a2a{background-size:14px;border-radius:3px;display:inline-block;height:14px;line-height:14px;margin:0 3px 0 0;vertical-align:top;width:14px}.a2a_modal{height:0;left:50%;margin-left:-320px;position:fixed;text-align:center;top:15%;width:640px;z-index:9999999;transition:transform .14s,opacity .14s;-webkit-tap-highlight-color:transparent}.a2a_modal_body{background:0 0;border:0;font:24px sans-serif-light,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Arial,Helvetica,"Liberation Sans",sans-serif;position:relative;height:auto;width:auto}.a2a_thanks{color:#fff;height:auto;margin-top:20px;width:auto}.a2a_thanks>div:first-child{margin:0 0 40px 0}.a2a_thanks div *{height:inherit}#a2a_copy_link{background:#FFF;border:1px solid #FFF;cursor:pointer;margin-top:15%}label.a2a_s_link#a2a_copy_link_icon,label.a2a_w_link#a2a_copy_link_icon{background-size:48px;border-radius:0;display:inline-block;height:48px;left:0;line-height:48px;margin:0 3px 0 0;position:absolute;vertical-align:top;width:48px}#a2a_modal input#a2a_copy_link_text{background-color:transparent;border:0;color:#2A2A2A;cursor:pointer;font:inherit;height:48px;left:62px;max-width:initial;min-height:auto;padding:0;position:relative;width:564px;width:calc(100% - 76px)}#a2a_copy_link_copied{background-color:#0166ff;color:#fff;display:none;font:inherit;font-size:16px;margin-top:1px;padding:3px 8px}@media (forced-colors:active){.a2a_color_buttons a,.a2a_svg{forced-color-adjust:none}}@media (prefers-color-scheme:dark){.a2a_menu a,.a2a_menu a.a2a_i,.a2a_menu a.a2a_i:visited,.a2a_menu a.a2a_more,i.a2a_i{border-color:#2a2a2a!important;color:#fff!important}.a2a_menu a.a2a_i:active,.a2a_menu a.a2a_i:focus,.a2a_menu a.a2a_i:hover,.a2a_menu a.a2a_more:active,.a2a_menu a.a2a_more:focus,.a2a_menu a.a2a_more:hover,.a2a_menu_find_container{border-color:#444!important;background-color:#444!important}.a2a_menu:not(.a2a_thanks){background-color:#2a2a2a;border-color:#2a2a2a}.a2a_menu_find{color:#fff!important}.a2a_menu label.a2a_s_find svg{background-color:transparent!important}.a2a_menu label.a2a_s_find svg path{fill:#fff!important}.a2a_full{box-shadow:#00000066 0 0 20px 10px}.a2a_overlay{background-color:#373737eb}}@media print{.a2a_floating_style,.a2a_menu,.a2a_overlay{visibility:hidden}}@keyframes a2aFadeIn{from{opacity:0}to{opacity:1}}.a2a_starting{opacity:0}.a2a_starting.a2a_full,.a2a_starting.a2a_modal{transform:scale(.8)}@media (max-width:639px){.a2a_full{border-radius:0;top:15%;left:0;margin-left:auto;width:100%}.a2a_modal{left:0;margin-left:10px;width:calc(100% - 20px)}}@media (min-width:318px) and (max-width:437px){.a2a_full .a2a_full_services .a2a_i{width:calc(50% - 18px)}}@media (max-width:317px){.a2a_full .a2a_full_services .a2a_i{width:calc(100% - 18px)}}@media (max-height:436px){.a2a_full{bottom:40px;height:auto;top:40px}}@media (max-height:550px){.a2a_modal{top:30px}}@media (max-height:360px){.a2a_modal{top:20px}.a2a_thanks>div:first-child{margin-bottom:20px}}.a2a_menu a{color:#0166FF;text-decoration:none;font:16px sans-serif-light,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Arial,Helvetica,"Liberation Sans",sans-serif;line-height:14px;height:auto;width:auto;outline:0}.a2a_menu a.a2a_i:visited,.a2a_menu a.a2a_more{color:#0166FF}.a2a_menu a.a2a_i:active,.a2a_menu a.a2a_i:focus,.a2a_menu a.a2a_i:hover,.a2a_menu a.a2a_more:active,.a2a_menu a.a2a_more:focus,.a2a_menu a.a2a_more:hover{color:#2A2A2A;border-color:#EEE;border-style:solid;background-color:#EEE;text-decoration:none}.a2a_menu label.a2a_s_find{background-size:24px;height:24px;left:8px;pointer-events:auto;position:absolute;top:7px;width:24px}.a2a_menu label.a2a_s_find svg{background-color:#FFF}.a2a_menu label.a2a_s_find svg path{fill:#CCC}#a2a_menu_container{display:inline-block}.a2a_menu_find_container{border:1px solid #CCC;border-radius:6px;padding:2px 24px 2px 0;position:relative;text-align:left}.a2a_cols_container .a2a_col1{overflow-x:hidden;overflow-y:auto;-webkit-overflow-scrolling:touch}#a2a_modal input,#a2a_modal input[type=text],.a2a_menu input,.a2a_menu input[type=text]{display:block;background-image:none;box-shadow:none;line-height:100%;margin:0;outline:0;overflow:hidden;padding:0;-moz-box-shadow:none;-webkit-box-shadow:none;-webkit-appearance:none}#a2afeed_find_container input,#a2afeed_find_container input[type=text],#a2apage_find_container input,#a2apage_find_container input[type=text]{background-color:transparent;border:0;box-sizing:content-box;color:#2A2A2A;float:none;font:inherit;font-size:16px;height:28px;line-height:20px;left:38px;outline:0;margin:0;max-width:initial;min-height:initial;padding:2px 0;position:relative;width:99%}.a2a_clear{clear:both}.a2a_svg{background-repeat:no-repeat;display:block;overflow:hidden;height:32px;line-height:32px;padding:0;pointer-events:none;width:32px}.a2a_svg svg{background-repeat:no-repeat;background-position:50% 50%;border:none;display:block;left:0;margin:0 auto;overflow:hidden;padding:0;position:relative;top:0;width:auto;height:auto}a.a2a_i,i.a2a_i{display:block;float:left;border:1px solid #FFF;line-height:24px;padding:6px 8px;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:132px}a.a2a_i span,a.a2a_more span{display:inline-block;overflow:hidden;vertical-align:top}a.a2a_i .a2a_svg{margin:0 6px 0 0}a.a2a_i .a2a_svg,a.a2a_more .a2a_svg{background-size:24px;height:24px;line-height:24px;width:24px}a.a2a_sss:hover{border-left:1px solid #CCC}a.a2a_more{border-bottom:1px solid #FFF;border-left:0;border-right:0;line-height:24px;margin:6px 0 0;padding:6px;-webkit-touch-callout:none}a.a2a_more span{height:24px;margin:0 6px 0 0}.a2a_kit .a2a_svg{background-repeat:repeat}.a2a_default_style a:empty,.a2a_flex_style a:empty,.a2a_floating_style a:empty,.a2a_overlay_style a:empty{display:none}.a2a_color_buttons a,.a2a_floating_style a{text-decoration:none}.a2a_default_style:not(.a2a_flex_style) a{float:left;line-height:16px;padding:0 2px}.a2a_default_style a:hover .a2a_svg,.a2a_floating_style a:hover .a2a_svg,.a2a_overlay_style a:hover .a2a_svg svg{opacity:.7}.a2a_overlay_style.a2a_default_style a:hover .a2a_svg{opacity:1}.a2a_default_style .a2a_count,.a2a_default_style .a2a_svg,.a2a_floating_style .a2a_svg,.a2a_menu .a2a_svg,.a2a_vertical_style .a2a_count,.a2a_vertical_style .a2a_svg{border-radius:4px}.a2a_default_style .a2a_counter img,.a2a_default_style .a2a_dd,.a2a_default_style .a2a_svg{float:left}.a2a_default_style .a2a_img_text{margin-right:4px}.a2a_default_style .a2a_divider{border-left:1px solid #000;display:inline;float:left;height:16px;line-height:16px;margin:0 5px}.a2a_kit a{cursor:pointer;transition:none}.a2a_floating_style{background-color:#fff;border-radius:6px;position:fixed;z-index:9999995}.a2a_overlay_style{z-index:2147483647}.a2a_floating_style,.a2a_overlay_style{animation:a2aFadeIn .2s ease-in;padding:4px}.a2a_vertical_style:not(.a2a_flex_style) a{clear:left;display:block;overflow:hidden;padding:4px}.a2a_floating_style.a2a_default_style{bottom:0}.a2a_floating_style.a2a_default_style a,.a2a_overlay_style.a2a_default_style a{padding:4px}.a2a_count{background-color:#fff;border:1px solid #ccc;box-sizing:border-box;color:#2a2a2a;display:block;float:left;font:12px Arial,Helvetica,sans-serif;height:16px;margin-left:4px;position:relative;text-align:center;width:50px}.a2a_count:after,.a2a_count:before{border:solid transparent;border-width:4px 4px 4px 0;content:"";height:0;left:0;line-height:0;margin:-4px 0 0 -4px;position:absolute;top:50%;width:0}.a2a_count:before{border-right-color:#ccc}.a2a_count:after{border-right-color:#fff;margin-left:-3px}.a2a_count span{animation:a2aFadeIn .14s ease-in}.a2a_vertical_style .a2a_counter img{display:block}.a2a_vertical_style .a2a_count{float:none;margin-left:0;margin-top:6px}.a2a_vertical_style .a2a_count:after,.a2a_vertical_style .a2a_count:before{border:solid transparent;border-width:0 4px 4px 4px;content:"";height:0;left:50%;line-height:0;margin:-4px 0 0 -4px;position:absolute;top:0;width:0}.a2a_vertical_style .a2a_count:before{border-bottom-color:#ccc}.a2a_vertical_style .a2a_count:after{border-bottom-color:#fff;margin-top:-3px}.a2a_color_buttons .a2a_count,.a2a_color_buttons .a2a_count:after,.a2a_color_buttons .a2a_count:before,.a2a_color_buttons.a2a_vertical_style .a2a_count:after,.a2a_color_buttons.a2a_vertical_style .a2a_count:before{background-color:transparent;border:none;color:#fff;float:none;width:auto}.a2a_color_buttons.a2a_vertical_style .a2a_count{margin-top:0}.a2a_flex_style{display:flex;align-items:flex-start;gap:0}.a2a_default_style.a2a_flex_style{left:0;right:0;width:100%}.a2a_vertical_style.a2a_flex_style{flex-direction:column;top:0;bottom:0}.a2a_flex_style a{display:flex;justify-content:center;flex:1;padding:4px}.a2a_flex_style.a2a_vertical_style a{flex-direction:column}.a2a_floating_style.a2a_color_buttons,.a2a_floating_style.a2a_flex_style{border-radius:0;padding:0}.a2a_floating_style.a2a_default_style.a2a_flex_style{bottom:0}.a2a_kit.a2a_flex_style .a2a_counter img,.a2a_kit.a2a_flex_style .a2a_dd,.a2a_kit.a2a_flex_style .a2a_svg{float:none}.a2a_nowrap{white-space:nowrap}.a2a_note{margin:0 auto;padding:9px;font-size:12px;text-align:center}.a2a_note .a2a_note_note{margin:0;color:#2A2A2A}.a2a_wide a{display:block;margin-top:3px;border-top:1px solid #EEE;text-align:center}.a2a_label{position:absolute!important;clip-path:polygon(0px 0px,0px 0px,0px 0px);-webkit-clip-path:polygon(0px 0px,0px 0px,0px 0px);overflow:hidden;height:1px;width:1px}.a2a_kit,.a2a_menu,.a2a_modal,.a2a_overlay{-ms-touch-action:manipulation;touch-action:manipulation;outline:0}.a2a_dd{-webkit-user-drag:none}.a2a_dd img{border:0}.a2a_button_facebook_like iframe{max-width:none}</style><style type="text/css">.gsc-control-cse{font-family:trebuchet ms, helvetica neue, sans-serif}.gsc-control-cse .gsc-table-result{font-family:trebuchet ms, helvetica neue, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(238,245,249,1),rgba(238,245,249,0))}.gsc-control-cse{border-color:#ecf4f9;background-color:#ecf4f9}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#eef5f9}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#009cd5;background-color:#009cd5;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#009cd5;border-color:#009cd5;background-color:#eef5f9}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#666666;border-color:#666666;background-color:#eef5f9}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#009cd5}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#0083b3}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#0083b3}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#0083b3}.gsc-cursor-page{color:#009cd5}a.gsc-trailing-more-results:link{color:#009cd5}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#333333}.gs-webResult div.gs-visibleUrl{color:#009933}.gs-webResult div.gs-visibleUrl-short{color:#009933}.gs-webResult div.gs-visibleUrl-short{display:none}.gs-webResult div.gs-visibleUrl-long{display:none}.gs-webResult div.gs-visibleUrl-breadcrumb{display:block}.gs-promotion div.gs-visibleUrl-short{display:none}.gs-promotion div.gs-visibleUrl-long{display:block}.gs-promotion div.gs-visibleUrl-breadcrumb{display:none}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#666666;background-color:#eef5f9;color:#666666}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#009cd5;background-color:#eef5f9;color:#009cd5}.gsc-webResult.gsc-result.gsc-promotion{border-color:#FFFFFF;background-color:#F6F6F6}.gsc-completion-title{color:#009cd5}.gsc-completion-snippet{color:#333333}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#1155CC}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#1155CC}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#1155CC}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#1155CC}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#333333}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#009cd5}.gcsc-find-more-on-google{color:#009cd5}.gcsc-find-more-on-google-magnifier{fill:#009cd5}</style><link type="text/css" href="https://www.google.com/cse/static/element/f71e4ed980f4c082/mobile+en.css" rel="stylesheet"><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style><style>    
+    ul.ms-rteStyle-ITUXCommuQuickLinks li {    
+      padding: 5px 0 5px 15px !important;  
+      background: url(/PublishingImages/masterpage/icons/quicklinks-arrow.gif) no-repeat 0 10px;  
+      line-height: 1.3;  
+      list-style: none !important;  
+    }  
+    ul.ms-rteStyle-ITUXCommuQuickLinks li.arabic {    
+      padding: 5px 10px 5px 15px !important;    
+      background-image: url('/PublishingImages/masterpage/icons/quicklinks-arrow-ar.gif') !important;    
+      background-position: 100% 10px !important;    
+      text-align: right !important;    
+    }    
+  </style><script src="https://script.hotjar.com/survey-v2.aedb8bf0b3069e2d06f4.js"></script><script type="text/javascript" src="/_layouts/15/1033/strings.js?rev=SQ5LvE8Ql%2BdPzOdXUHU7Bg%3D%3DTAG0"></script><style>._hj-Pbej5__styles__resetStyles *{line-height:normal;font-family:Arial, sans-serif, Tahoma !important;text-transform:initial !important;letter-spacing:normal !important}._hj-Pbej5__styles__resetStyles *::before,._hj-Pbej5__styles__resetStyles *::after{box-sizing:initial}._hj-Pbej5__styles__resetStyles div{height:auto}._hj-Pbej5__styles__resetStyles button{display:inline-block;height:auto;font-size:1rem}._hj-Pbej5__styles__resetStyles div,._hj-Pbej5__styles__resetStyles span,._hj-Pbej5__styles__resetStyles p,._hj-Pbej5__styles__resetStyles a,._hj-Pbej5__styles__resetStyles button{font-weight:normal !important}._hj-Pbej5__styles__resetStyles div,._hj-Pbej5__styles__resetStyles span,._hj-Pbej5__styles__resetStyles p,._hj-Pbej5__styles__resetStyles a,._hj-Pbej5__styles__resetStyles img,._hj-Pbej5__styles__resetStyles strong,._hj-Pbej5__styles__resetStyles form,._hj-Pbej5__styles__resetStyles label{border:0;font-size:100%;vertical-align:baseline;background:transparent;margin:0;padding:0;float:none !important}._hj-Pbej5__styles__resetStyles span{color:inherit}._hj-Pbej5__styles__resetStyles ol,._hj-Pbej5__styles__resetStyles ul,._hj-Pbej5__styles__resetStyles li{list-style:none !important;margin:0 !important;padding:0 !important}._hj-Pbej5__styles__resetStyles li:before,._hj-Pbej5__styles__resetStyles li:after{content:none !important}._hj-Pbej5__styles__resetStyles hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}._hj-Pbej5__styles__resetStyles input[type='submit'],._hj-Pbej5__styles__resetStyles input[type='button'],._hj-Pbej5__styles__resetStyles button{margin:0;padding:0;float:none !important}._hj-Pbej5__styles__resetStyles input,._hj-Pbej5__styles__resetStyles select,._hj-Pbej5__styles__resetStyles a img{vertical-align:middle}._hj-s3UIi__styles__globalStyles *,._hj-s3UIi__styles__globalStyles *::before,._hj-s3UIi__styles__globalStyles *::after{box-sizing:border-box}@font-face{font-family:'hotjar';src:url(https://script.hotjar.com/font-hotjar_5.f4b154.eot);src:url(https://script.hotjar.com/font-hotjar_5.f4b154.eot#iefix) format("embedded-opentype"),url(https://script.hotjar.com/font-hotjar_5.65042d.woff2) format("woff2"),url(https://script.hotjar.com/font-hotjar_5.0ddfe2.ttf) format("truetype"),url(https://script.hotjar.com/font-hotjar_5.17b429.woff) format("woff"),url(https://script.hotjar.com/font-hotjar_5.2c7ab2.svg#hotjar) format("svg");font-weight:normal;font-style:normal}@keyframes _hj-eYRYp__styles__spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}@keyframes _hj-5\+Z5O__styles__colors{0%{border-color:#f4364c;border-top-color:transparent}25%{border-color:#00a2f2;border-top-color:transparent}50%{border-color:#efb60c;border-top-color:transparent}75%{border-color:#42ca49;border-top-color:transparent}100%{border-color:#f4364c;border-top-color:transparent}}._hj-s3UIi__styles__globalStyles p{color:inherit !important}._hj-s3UIi__styles__globalStyles a,._hj-s3UIi__styles__globalStyles a:link,._hj-s3UIi__styles__globalStyles a:hover,._hj-s3UIi__styles__globalStyles a:active{color:inherit !important;text-decoration:underline}._hj-s3UIi__styles__globalStyles ._hj-L5SMl__styles__icon{speak:none !important;font-style:normal !important;font-weight:normal !important;font-variant:normal !important;text-transform:none !important;overflow-wrap:normal !important;word-break:normal !important;word-wrap:normal !important;white-space:nowrap !important;line-height:normal !important;-webkit-font-smoothing:antialiased !important;-moz-osx-font-smoothing:grayscale !important;vertical-align:middle !important}._hj-s3UIi__styles__globalStyles ._hj-L5SMl__styles__icon,._hj-s3UIi__styles__globalStyles ._hj-L5SMl__styles__icon:before,._hj-s3UIi__styles__globalStyles ._hj-L5SMl__styles__icon:after,._hj-s3UIi__styles__globalStyles ._hj-L5SMl__styles__icon *,._hj-s3UIi__styles__globalStyles ._hj-L5SMl__styles__icon *:before,._hj-s3UIi__styles__globalStyles ._hj-L5SMl__styles__icon *:after{font-family:'hotjar' !important;display:inline-block !important;direction:ltr !important}._hj-s3UIi__styles__globalStyles ._hj-L5SMl__styles__icon:before{color:inherit !important}._hj-s3UIi__styles__globalStyles ._hj-dk3Fb__styles__iconX:before{content:'\e803'}._hj-s3UIi__styles__globalStyles ._hj-9iDZB__styles__iconOk:before{content:'\e804'}._hj-s3UIi__styles__globalStyles ._hj-t13KX__styles__iconError:before{content:'\e90c'}._hj-s3UIi__styles__globalStyles ._hj-D\+oDX__styles__iconLogo:before{content:'\e806'}._hj-s3UIi__styles__globalStyles ._hj-Nbq9C__styles__iconSelectElement:before{content:'\e91a'}._hj-s3UIi__styles__globalStyles ._hj-mtJG6__styles__surveyIcons{background-repeat:no-repeat;width:16px;height:16px;display:inline-block !important;zoom:1;vertical-align:middle}._hj-widget-theme-light ._hj-s3UIi__styles__globalStyles ._hj-mtJG6__styles__surveyIcons{background-image:url(https://script.hotjar.com/widget_icons_light.766225.png)}._hj-widget-theme-dark ._hj-s3UIi__styles__globalStyles ._hj-mtJG6__styles__surveyIcons{background-image:url(https://script.hotjar.com/widget_icons_dark.ad934a.png)}._hj-s3UIi__styles__globalStyles ._hj-EZqbk__styles__inputField{font-family:Arial, sans-serif, Tahoma;font-size:14px;color:#333 !important;padding:6px !important;text-indent:0 !important;height:30px;width:100%;min-width:100%;background:white;border:1px solid !important;outline:none !important;max-width:none !important;float:none;border-radius:3px}._hj-s3UIi__styles__globalStyles ._hj-AwaE7__styles__textarea{resize:none;height:100px}._hj-s3UIi__styles__globalStyles ._hj-EIBGi__styles__basicButton,._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton{cursor:pointer;text-decoration:none;text-transform:capitalize;font-size:14px;font-weight:bold;padding:6px 16px !important;border:0;outline:0;display:inline-block;vertical-align:top;width:auto;zoom:1;transition:all 0.2s ease-in-out;box-shadow:0 2px 3px 0 rgba(0,0,0,0.15);border-radius:4px;color:white}._hj-s3UIi__styles__globalStyles ._hj-EIBGi__styles__basicButton:hover,._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton:hover,._hj-s3UIi__styles__globalStyles ._hj-EIBGi__styles__basicButton:focus,._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton:focus,._hj-s3UIi__styles__globalStyles ._hj-EIBGi__styles__basicButton:active,._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton:active{background:#00a251}._hj-s3UIi__styles__globalStyles ._hj-EIBGi__styles__basicButton[disabled],._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton[disabled]{cursor:default}._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton{font-size:14px !important;font-weight:500 !important;padding:6px 16px !important;border:0 !important;outline:0 !important;min-height:initial !important;width:auto !important;min-width:initial !important;background:var(--hjFeedbackAccentColor) !important;color:var(--hjFeedbackAccentTextColor) !important;box-shadow:none !important}._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton:hover,._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton:focus,._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton:active{background:var(--hjFeedbackAccentActiveColor) !important}._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton:focus{background:var(--hjFeedbackAccentColor) !important;box-shadow:0 0 0 1px var(--hjFeedbackPrimaryColor),0 0 0 3px var(--hjFeedbackAccentColor) !important}._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton:hover{background:var(--hjFeedbackAccentHoverColor) !important}._hj-s3UIi__styles__globalStyles ._hj-SU8LU__styles__primaryButton[disabled]{cursor:default;background:var(--hjFeedbackDisabledAccentColor) !important;color:var(--hjFeedbackDisabledAccentTextColor) !important}._hj-s3UIi__styles__globalStyles ._hj-F457\+__styles__clearButton{cursor:pointer;text-decoration:underline;font-size:13px !important;padding:0 10px !important;border:0 !important}._hj-s3UIi__styles__globalStyles ._hj-F457\+__styles__clearButton,._hj-s3UIi__styles__globalStyles ._hj-F457\+__styles__clearButton:hover,._hj-s3UIi__styles__globalStyles ._hj-F457\+__styles__clearButton:focus,._hj-s3UIi__styles__globalStyles ._hj-F457\+__styles__clearButton:active{background:transparent !important}._hj-s3UIi__styles__globalStyles ._hj-hTm4\+__styles__answersContentWrapper{padding:4px 12px 16px 12px}._hj-s3UIi__styles__globalStyles ._hj-ag9y\+__styles__spinner{border:1px solid rgba(0,0,0,0.6);border-top-color:transparent !important;border-radius:50%;transform:rotate(0deg);animation:_hj-eYRYp__styles__spin 0.4s linear infinite, _hj-5\+Z5O__styles__colors 5.6s ease-in-out infinite}._hj-s3UIi__styles__globalStyles ._hj-H1LCt__styles__widget{font-size:13px !important;position:fixed;z-index:2147483640;bottom:-400px;right:100px;width:300px;-webkit-border-radius:5px 5px 0 0;-moz-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0;-webkit-transform:translateZ(0) !important;transform:translateZ(0) !important}._hj-AwaE7__styles__textarea{}._hj-dk3Fb__styles__iconX,._hj-9iDZB__styles__iconOk,._hj-t13KX__styles__iconError,._hj-D\+oDX__styles__iconLogo,._hj-Nbq9C__styles__iconSelectElement{}._hj-eJm8p__styles__rtl,._hj-eJm8p__styles__rtl *{direction:rtl !important}._hj-hc6BA__styles__roundedCorners{border-radius:3px}@media screen and (max-width: 480px){._hj-A4W17__styles__inlineSurvey{max-width:100%;overflow-x:auto}}
+</style><style data-emotion="css-global" data-s=""></style><style data-emotion="css" data-s=""></style><script type="text/javascript" src="/_layouts/15/core.js?rev=4hoPdZ7sKMJ2VcMHohg0sQ%3D%3DTAG0"></script><script type="text/javascript" src="/_layouts/15/mquery.js?rev=j6z6zGMkc7SQymi6LH04Pg%3D%3DTAG0"></script><script type="text/javascript" src="/_layouts/15/sp.init.js?rev=m6TwNy21vIIhzFD8Z3ignw%3D%3DTAG0"></script><script type="text/javascript" src="/_layouts/15/sp.core.js?rev=%2BxaR9ZE%2FzgxsUaXsb2kAtQ%3D%3DTAG0"></script></head>
+	
+<!-- ITU template starts : language dependent -->
+<!--[if lt IE 7]>  <body class="ie ie6 lte9 lte8 lte7 inside french"> 
+<div class="style1">
+	<![endif]-->
+<!--[if IE 7]>     <body class="ie ie7 lte9 lte8 lte7 inside french"> <![endif]-->
+<!--[if IE 8]>     <body class="ie ie8 lte9 lte8 inside french"> <![endif]-->
+<!--[if IE 9]>     <body class="ie ie9 lte9 inside french"> <![endif]-->
+<!--[if gt IE 9]>  <body class="inside french"> <![endif]-->
+<!--[if !IE]><!--> <body class="inside french ms-backgroundImage"> <!--<![endif]-->
+<!-- ITU template ends -->
+			<!-- Google Tag Manager (noscript) -->
+			<noscript>
+			&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2LC5X5" height="0" width="0" style="display:none;visibility:hidden"&gt;			&lt;/iframe&gt;
+			</noscript>
+			<!-- End Google Tag Manager (noscript) -->
+		<!-- ===== STARTER: SP IDs / Prefetch SP images / SP Form  =========================================================================== -->
+		
+		<div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/images/spcommon.png?rev=43">
+</div>
+
+		<form method="post" action="/fr/Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="">
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x3414C66686586302D741370F514BC15A61E77BF6221148F7FA321DC899D4482CFD1E4A2FBC1C6B71AB43050F0C3C5E533F1F3CECA8AE66D24FACFCDB3D58FA92,18 Jan 2026 22:44:33 -0000">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="">
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgICD2QWBAIBD2QWBAILD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAi4PZBYCZg9kFgJmDzwrAAYAZAIHD2QWBgIBD2QWCgUmZ18zY2EyYWNiZF9lZDEyXzQzMTRfYjJmN180ZWNhYzBmZjhkMmUPZBYEZg8WAh4HVmlzaWJsZWhkAgEPFgIfAWhkBSZnX2RiZTlhMGFhX2YxMTZfNDQzNF9hNTYzXzYyOWM5YmJiNDg3OA9kFgRmDxYCHwFoZAIBDxYCHwFoZAUmZ19hNDNiM2UzN18yZWQyXzQwYTVfODNmY181OTcyYmZkMjIyOWMPZBYEZg8WAh8BaGQCAQ8WAh8BaGQFJmdfMzdmNTQyNmJfNDgzZV80OTA2X2E1OTRfN2MxNmJhNzc2OTFlD2QWBGYPFgIfAWhkAgEPFgIfAWhkBSZnX2Y4NzgxMGZjX2M2MTRfNDMwOV84M2U4XzVmZjQzOWIxMjkxMA9kFgRmDxYCHwFoZAIBDxYCHwFoZAIFD2QWAgIBD2QWAgICD2QWAgIBD2QWAgIDDxYCHwFoFgJmD2QWBAIDD2QWBgIBDxYCHwFoZAIDDxYCHwFoZAIFDxYCHwFoZAIEDw8WAh4JQWNjZXNzS2V5BQEvZGQCCQ9kFgYCBg9kFgICAQ9kFgICAQ8WAh8ACysEAWQCCg9kFhYCBw9kFgICAQ8WAh8ACysEAWQCCw9kFgICAQ8WAh8ACysEAWQCEQ9kFgICAQ8WAh8ACysEAWQCFQ9kFgICAQ8WAh8ACysEAWQCGw9kFgICAQ8WAh8ACysEAWQCIQ9kFgICAQ8WAh8ACysEAWQCJQ9kFgICAQ8WAh8ACysEAWQCKw9kFgICAQ8WAh8ACysEAWQCLw9kFgICAQ8WAh8ACysEAWQCNQ9kFgICAQ8WAh8ACysEAWQCOQ9kFgICAQ8WAh8ACysEAWQCDA9kFgICAQ9kFgICAQ8WAh8ACysEAWRkTzgAQmNGCp14gtLO35s+aXSYwiVh6DGSB3koxVSgmBk=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=fZBssSwBZyrTlT7jnnYJc7xzrAjctNoxqGfV-QciYEf1J06N3pKgRki14WtoBViZjFo7uFS3RO6ML22HYj-6GVDbgjHOyxbmaQhBJfbfN4o1&amp;t=638901843720898773" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = '4e57eea1-e633-1070-387e-c1fc2b0bdb4d';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'ITUCUSTOM#2';
+var _spPageContextInfo={"webServerRelativeUrl":"/fr","webAbsoluteUrl":"https://www.itu.int/fr","viewId":"","listId":"{320e0d48-0c2c-4f7f-acdc-847fc83578ac}","listPermsMask":{"High":16,"Low":196673},"listUrl":"/fr/Pages","listTitle":"Pages","listBaseTemplate":850,"viewOnlyExperienceEnabled":false,"blockDownloadsExperienceEnabled":false,"idleSessionSignOutEnabled":false,"cdnPrefix":"","siteAbsoluteUrl":"https://www.itu.int","siteId":"{bf5d141a-87ec-4f82-9c36-7efb6981f4b1}","showNGSCDialogForSyncOnTS":false,"supportPoundStorePath":true,"supportPercentStorePath":true,"siteSubscriptionId":null,"CustomMarkupInCalculatedFieldDisabled":true,"AllowCustomMarkupInCalculatedField":false,"isSPO":false,"farmLabel":null,"serverRequestPath":"/fr/Pages/default.aspx","layoutsUrl":"_layouts/15","webId":"{198b48dc-63f4-4d09-8fc1-b0d069121e5b}","webTitle":"Page d accueil","webTemplate":"100001","webTemplateConfiguration":"ITUCUSTOM#2","webDescription":"Page d accueil de l\u0027UIT","tenantAppVersion":"0","isAppWeb":false,"webLogoUrl":"/_layouts/images/titlegraphic.gif","webLanguage":1033,"currentLanguage":1033,"currentUICultureName":"en-US","currentCultureName":"fr-FR","currentCultureLCID":1036,"env":null,"nid":0,"fid":0,"serverTime":"2026-01-18T22:44:32.7803032Z","siteClientTag":"4183$$16.0.10417.20075","crossDomainPhotosEnabled":false,"openInClient":false,"Has2019Era":true,"webUIVersion":15,"webPermMasks":{"High":16,"Low":196673},"pageListId":"{320e0d48-0c2c-4f7f-acdc-847fc83578ac}","pageItemId":205,"pagePermsMask":{"High":16,"Low":196673},"pagePersonalizationScope":1,"userEmail":"","userId":0,"userLoginName":null,"userDisplayName":null,"isAnonymousUser":true,"isAnonymousGuestUser":false,"isEmailAuthenticationGuestUser":false,"isExternalGuestUser":false,"systemUserKey":null,"alertsEnabled":true,"siteServerRelativeUrl":"/","allowSilverlightPrompt":"True","themeCacheToken":"/fr::3:","themedCssFolderUrl":null,"themedImageFileNames":null,"modernThemingEnabled":true,"isSiteAdmin":false,"ExpFeatures":[480216468,1884350801,1158731092,62197791,538521105,335811073,4194306,34614301,268500996,-1946025984,28445328,-2147475455,134291456,65536,288,950272,1282,808326148,134217873,0,0,-1073217536,545285252,18350656,-467402752,6291457,-2147483644,1074794496,-1728053184,1845537108,622628,4102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"killSwitches":{},"InternalValidAuthorities":["broadband.itu.int","broadband.itu.int","www.broadbandcommission.org","www.broadbandcommission.org","staging.itu.int","www.itu.int","www.itu.int","staging.itu.int"],"CorrelationId":"4e57eea1-e633-1070-387e-c1fc2b0bdb4d","hasManageWebPermissions":false,"isNoScriptEnabled":false,"groupId":null,"groupHasHomepage":true,"groupHasQuickLaunchConversationsLink":false,"departmentId":null,"hubSiteId":null,"hasPendingWebTemplateExtension":false,"isHubSite":false,"isWebWelcomePage":false,"siteClassification":"","hideSyncButtonOnODB":false,"showNGSCDialogForSyncOnODB":false,"sitePagesEnabled":false,"sitePagesFeatureVersion":0,"DesignPackageId":"00000000-0000-0000-0000-000000000000","groupType":null,"groupColor":"#ee0410","siteColor":"#ee0410","headerEmphasis":0,"navigationInfo":null,"guestsEnabled":false,"MenuData":{"SignInUrl":"/fr/_layouts/15/Authenticate.aspx?Source=%2Ffr%2FPages%2Fdefault%2Easpx"},"RecycleBinItemCount":-1,"PublishingFeatureOn":true,"PreviewFeaturesEnabled":false,"disableAppViews":false,"disableFlows":false,"serverRedirectedUrl":null,"formDigestValue":"0x34C1778BCDAA98519D0E30B4D090E9B39BE1ED94861F51FB5193246361EC7EE9DD1E2EDC6CA38A3F138C9AD72EEF671E04750B75CC837A237C60F937DA2BF4B0,18 Jan 2026 22:44:32 -0000","maximumFileSize":2047,"formDigestTimeoutSeconds":1800,"canUserCreateMicrosoftForm":false,"canUserCreateVisioDrawing":true,"readOnlyState":null,"isTenantDevSite":false,"preferUserTimeZone":false,"userTimeZoneData":null,"userTime24":false,"userFirstDayOfWeek":null,"webTimeZoneData":null,"webTime24":false,"webFirstDayOfWeek":null,"isSelfServiceSiteCreationEnabled":null,"alternateWebAppHost":"","aadTenantId":"","aadUserId":"","aadInstanceUrl":"","msGraphEndpointUrl":"https://","allowInfectedDownload":true};_spPageContextInfo.updateFormDigestPageLoaded=new Date();_spPageContextInfo.clientServerTimeDelta=new Date(_spPageContextInfo.serverTime)-new Date();if(typeof(define)=='function'){define('SPPageContextInfo',[],function(){return _spPageContextInfo;});}var L_Menu_BaseUrl="/fr";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="null";
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480216468,1884350801,1158731092,62197791,538521105,335811073,4194306,34614301,268500996,-1946025984,28445328,-2147475455,134291456,65536,288,950272,1282,808326148,134217873,0,0,-1073217536,545285252,18350656,-467402752,6291457,-2147483644,1074794496,-1728053184,1845537108,622628,4102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]; (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=u2TIeRLoD1hltvd38VWMSA%3D%3DTAG0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.SPThemeUtils && SPThemeUtils.RegisterCssReferences([{"Url":"\u002f_layouts\u002f15\u002f1033\u002fstyles\u002fThemable\u002fcorev15.css?rev=UP2nlZLed9gOy\u00252BMP38oz0A\u00253D\u00253DTAG0","OriginalUrl":"\u002f_layouts\u002f15\u002f1033\u002fstyles\u002fThemable\u002fcorev15.css?rev=UP2nlZLed9gOy\u00252BMP38oz0A\u00253D\u00253DTAG0","Id":"CssRegistration1","ConditionalExpression":"","After":"","RevealToNonIE":"false"},{"Url":"\u002fStyle Library\u002fituv2.css","OriginalUrl":"\u002fStyle Library\u002fituv2.css","Id":"CssLink-cd5066c38bc9435cac507dea00e5730d","ConditionalExpression":"","After":"","RevealToNonIE":"false"}]);
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002ffr', 1440000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8B6B5514">
+</div>
+		
+		<!-- ===== STARTER: SharePoint Reqs this for adding columns ===================================================== -->
+		<script type="text/javascript">		    var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
+
+		<!-- ===== STARTER: Web Part Manager  ============================================================================================= -->
+				
+		
+			<!-- ===== STARTER: ScriptManager ===================================================== -->
+			<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+		
+<!-- ITU template starts : language INdependent -->
+<!-- show ribbon at staging only  -->
+		
+<!-- ITU template ends -->
+			
+			<!-- ===== STARTER: Main Scrolling Body Starts Here =============================================================================== -->
+			<div id="s4-workspace">
+				<div id="s4-bodyContainer">
+				
+<!-- ITU template starts : language INdependent -->
+				        
+<!-- ITU template ends -->
+
+				<!-- ===== STARTER: This decides where the web part menu lives ===================================================== -->
+				<div id="ctl00_DeltaPlaceHolderMain">
+
+<!-- ITU template starts : language dependent -->
+
+<!-- Added Wrapper  by Rajani Vepa on 26 Aug 2016  -->
+<div class="wrapper" style="background:#fff url(/PublishingImages/masterpage/background/body-top-bg-219x10.png) repeat-x 0 0px;">
+
+<!-- Original Wrapper commented on 26 AUG 2016 for SDG Logo
+ <div class="wrapper" style="background:#fff url(/PublishingImages/masterpage/background/body-top-bg-184x10.png) repeat-x 0 -13px;">  -->
+ 
+
+    <div class="container">
+    
+   <div class="row"> <!--TOP bar for logo and language, search box -->
+    	<div class="header">
+        <div class="col-22">  <!--CHANGED from col-21  by Rajani Vepa on DEC 2024 --> 
+
+        <div class="col-4" style="margin:0px!important"> <!--MARGIN added ADDED by Rajani Vepa on 18 DEC 2025 -->        
+		<!-- <a href="/en/" title="ITU"><img class="logo"  src="/PublishingImages/masterpage/logos/itu-logo.png" alt="ITU" /></a> -->
+		<a href="/fr/#/fr" title="ITU"><img class="logo" style="padding-top:10px!important;height:75px;" src="/PublishingImages/masterpage/logos/ITU-logo.svg" alt="ITU"></a>
+        <!-- New 160th logo added by Rajani Vepa on  NOV  2024  for ITU-160 logo	 -->
+
+     	</div>   <!-- NEWLY ADDED by Rajani Vepa on DEC 2024 --> 
+     
+     	<div class="col-18" style="margin-left:-20px;"> <!-- NEWLY ADDED separate columns for Language and search bar by Rajani Vepa on DEC 2024 --> 
+         <!-- added margin left as new style Rajani VEPA dec 2024 -->        
+
+
+            <div class="tagline lang-switcher">
+            <!-- CHANGED the TITLE "Committed to connecting the world"on 5 AUG 2025 	<h2>Engagée à connecter le monde</h2> -->
+            	<h2>Connecter le monde et bien plus encore</h2>
+
+            	
+<ul class="clearfix">
+	<li>
+		<a href="/en/Pages/default.aspx#/fr">English</a>
+	</li>
+	<li>
+		<a href="/ar/Pages/default.aspx#/fr">عربي</a>
+	</li>
+	<li>
+		<a href="/zh/Pages/default.aspx#/fr">中文</a>
+	</li>
+	<li>
+		<a href="/es/Pages/default.aspx#/fr">Español</a>
+	</li>
+	<li>
+		<a href="/ru/Pages/default.aspx#/fr">Русский</a>
+	</li>
+</ul>
+            </div><!--/.tagline .lang-switcher-->
+
+			 
+             <!-- Added by Y Kitaw on 30 May 2024  for Google Powered Search -->              
+              <div class="header-search" style="float:none; padding:0px;!important;">
+
+			<script async="" src="https://cse.google.com/cse.js?cx=603416e14d8fe4ef6"></script>
+				<div id="cse" style="width: 100%;float:left; margin: 0 auto;">
+			    <div id="___gcse_0"><div class="gsc-control-cse gsc-control-cse-en"><div class="gsc-control-wrapper-cse" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" role="presentation" id="gs_id50" class="gstl_50 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="search" aria-label="search" id="gsc-i-id1" style="width: 100%; padding: 0px; border: medium; margin: 0px; height: auto; outline: currentcolor;" dir="ltr" spellcheck="false"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" title="Clear search box" role="button" style="display: none;"><span class="gscb_a" id="gs_cb50" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>search</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table></form><div class="gsc-results-wrapper-overlay"><div class="gsc-results-close-btn" tabindex="0"></div><div class="gsc-positioningWrapper"><div class="gsc-tabsAreaInvisible"><div aria-label="refinement" role="tab" class="gsc-tabHeader gsc-inline-block gsc-tabhActive">Custom Search</div><span class="gs-spacer"> </span></div></div><div class="gsc-positioningWrapper"><div class="gsc-refinementsAreaInvisible"><div class="gsc-refinementsGradient"></div></div></div><div class="gsc-above-wrapper-area-invisible"><div class="gsc-above-wrapper-area-backfill-container"></div><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-above-wrapper-area-container"><tbody><tr><td class="gsc-result-info-container"><div class="gsc-result-info-invisible"></div></td><td class="gsc-orderby-container"><div class="gsc-orderby-invisible"><div class="gsc-orderby-label gsc-inline-block">Sort by:</div><div class="gsc-option-menu-container gsc-inline-block"><div class="gsc-selected-option-container gsc-inline-block"><div class="gsc-selected-option">Relevance</div><div class="gsc-option-selector"></div></div><div class="gsc-option-menu-invisible"><div class="gsc-option-menu-item gsc-option-menu-item-highlighted"><div class="gsc-option">Relevance</div></div><div class="gsc-option-menu-item"><div class="gsc-option">Date</div></div><div class="gsc-option-menu-item"><div class="gsc-option">Relation to ITU Statutory Meeting Documents</div></div></div></div></div></td></tr></tbody></table></div><div class="gsc-adBlockInvisible"></div><div class="gsc-wrapper"><div class="gsc-adBlockInvisible"></div><div class="gsc-resultsbox-invisible"><div class="gsc-resultsRoot gsc-tabData gsc-tabdActive"><div><div class="gsc-expansionArea"></div></div></div></div></div></div><div class="gsc-modal-background-image" tabindex="0"></div></div></div></div>  </div>
+            </div>
+                 
+            <style>
+   			 .cse .gsc-control-cse,
+ 			   .gsc-control-cse {background-color:transparent !important;}
+ 			   .cse .gsc-control-cse,   .gsc-control-cse { border:0px !important; }<!--/.added by Rajani VEPA on 20 NOV 2024 -->
+
+			</style> <!-- Google Search ends here added by Y Kitaw on 30 May 2024  -->
+ 		
+		 </div> <!--/.col-XX --> <!--/ NEWLY ADDED separate columns for Language and search bar by Rajani Vepa on DEC 2024 -->  
+           <div class="clear"></div>
+        </div><!--/.col-21--> <!-- CHANGED number from COL-21 to COL-XX ADDED by Rajani Vepa on DEC 2024 --> 
+       
+		 <div class="col-10"> <!-- CHANGED number from COL-11 to COL-XX for RIGHT TOP corner IMAGE AS SEPARATE BOX by Rajani Vepa on 18 DEC 2025 -->
+      	
+      		<div style="width:100%; float:right; padding-right:10px;"> <!-- div top right logo -->		 
+		        
+		             <!--modified by Rajani Vepa on 18 DEC 2025  for YIR 2025 logo  -->
+	           <a href="https://www.itu.int/osg/year-in-review-2025/#/fr" title="Year in Review 2025 " target="_blank"><img src="/en/PublishingImages/homepage-top-corner-logo/2025/Year-in-Review-2025-logo-homepage-fr.png" style="width:140px;padding-top:20px;float:right;" alt="Year in Review 2025"></a>   
+	
+	            <!--Ends here - YIR 2025 LOGO -->	 
+            	
+            
+            </div>  <!-- ends here - div top right logo -->
+            
+         <!--Advanced Search - modified by Y. Kitaw on 04 June 2024 for Council -->
+	       
+	       <div style="width:100%; float:right; padding-right:10px;"> 
+
+		<a style="padding-top:10px;float:right;" href="https://www.itu.int/search#/fr">Recherche avancée</a> 	  </div>   
+	     
+	     <!--Advanced search Ends here   -->
+       	
+        </div><!--/.col-11 --> <!-- CHANGED number from COL-11to COL-XX for RIGHT TOP corner IMAGE AS SEPARATE BOX by Rajani Vepa on DEC 2024 --> 
+    	</div><!--/.header-->
+    </div><!--/.row End of the TOP bar for logo and language, search box--> 
+
+
+
+ 
+    
+ 
+    <div class="row">
+    
+    <div class="col-32">
+    <div class="main-nav">
+		
+<ul class="clearfix">
+	<li class="home mn01 active">
+		<a href="/fr/Pages/default.aspx#/fr">UIT</a>
+		<ul class="clearfix">
+			<li class="sub-nav">
+				<a href="/fr/about#/fr">À propos de l'UIT</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/fr/mediacentre/Pages/default.aspx#/fr">Centre médias</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/events#/fr">Événements</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/hub/pubs/#/fr">Publications</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/ITU-D/Statistics#/fr">Statistiques</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/fr/action#/fr">Champ d'action</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/fr/ITU-D/Pages/Regional-Presence.aspx#/fr">Présence régionale</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/careers#/fr">Carrières</a>
+			</li>
+		</ul>
+	</li>
+	<li class="mn02">
+		<a href="/fr/general-secretariat/Pages/default.aspx#/fr">Secrétariat général</a>
+	</li>
+	<li class="mn03 radiocommunication">
+		<a href="/fr/ITU-R#/fr">Radiocommunications</a>
+	</li>
+	<li class="mn04">
+		<a href="/fr/ITU-T/Pages/default.aspx#/fr">Normalisation</a>
+	</li>
+	<li class="mn05">
+		<a href="/fr/ITU-D#/fr">Développement</a>
+	</li>
+	<li class="mn06">
+		<a href="/hub/news/#/fr">Actualités</a>
+	</li>
+	<li class="mn07">
+		<a href="/hub/membership/#/fr">Zone des Membres</a>
+	</li>
+	<li class="join-itu">
+		<a href="/hub/membership/become-a-member/#/fr">Devenir membre</a>
+	</li>
+</ul>
+    </div><!--/.main-nav-->
+    </div><!--/.col-32-->
+    
+    </div><!--/.row-->
+
+    <div id="pagetitle" class="row">
+           
+	<div class="col-24 page-heading">
+
+	 <div>
+	
+		    <h1>ITU: Connecting the world and beyond</h1>
+		
+</div>		
+		     
+ </div><!--/.col-24 page-heading-->
+ <div class="col-8"></div><!--/.col-8 page-heading--> 
+
+    </div><!--/.row-->
+    
+    <div id="breadcrumb" class="row">
+    	<div class="col-32 breadcrumb">
+    	<div class="col-23 col-first">
+        	<p>
+        		<em>Vous êtes ici</em> 
+		<span id="ctl00_SiteMapPath1"><a href="#ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=Ijg8dHGzYcEK7ifHOUDiwpxSHi6bCuFBNS5BJbEUYYt_m4D3zECoSgS8jlJvvbEn0gXfLQgKQxrQydPV6F0veeY2Cwsr1VOTbKOjUMlVZOM1&amp;t=638901843720898773" width="0" height="0" style="border-width:0px;"></a><span><a title="ITU" href="/Pages/VariationRoot.aspx#/fr">ITU</a></span><span> &gt; </span><span>Page d accueil</span><a id="ctl00_SiteMapPath1_SkipLink"></a></span>
+        	</p>
+        </div><!--/.col-24-->
+    	<div class="col-9 col-last">
+        	<div class="share-this clearfix">
+                <p>Partager cette page</p>
+                <!-- AddToAny share buttons CODE  - Added this new code given by Kodjo on 15 dec 2025 for share buttons - VEPA in a DIV  -->    	
+    	   		<div style="float:left"> <!--/.add buttons-->    		
+				<div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="line-height: 32px;">
+			
+				 	<a class="a2a_button_facebook" target="_blank" rel="nofollow noopener" href="/#facebook"><img src="/PublishingImages/masterpage/buttons/facebook-round.png" alt="Share on Facebook"></a>
+					<a class="a2a_button_x" target="_blank" rel="nofollow noopener" href="/#x"><img src="/PublishingImages/masterpage/buttons/twitter-round.png" alt="Share on twitter"></a>
+					<a class="a2a_button_linkedin" target="_blank" rel="nofollow noopener" href="/#linkedin"><img src="/PublishingImages/masterpage/buttons/linkedin-round.png" alt="Share on LinkedIn"></a>
+					<a class="a2a_button_email" target="_blank" rel="nofollow noopener" href="/#email"><img src="/PublishingImages/masterpage/buttons/email-round.png" alt="Share via email"></a>
+					 <!--	<a class="a2a_dd" href="https://www.addtoany.com/share"></a> -->  <!--/.comments the + sign to add more share buttons  18DEC2025-->
+	 			
+				<div style="clear: both;"></div></div>
+				<script defer="" src="https://static.addtoany.com/menu/page.js"></script>
+				<!-- AddToAny END here  -->				
+		</div><!--/.ENDs here - DIV for AddtoAny share buttons VEPA- 18dec 2025 -->
+            </div><!--/.share-this-->
+        </div><!--/.col-8 page-heading-->
+        </div><!--/.col-32 breadcrumb-->
+    </div><!--/.row-->
+<!-- ITU template ends -->
+<!-- Print Section // -->
+
+							<!-- ===== STARTER: Main Placeholder gets replaced with content of the page ======================================= -->
+							
+    
+
+ <div id="home-centre-band" class="home-centre-band" style="margin-right: -10px; margin-left: -10px; padding-right: 10px; padding-left: 10px;">
+	
+	
+	    <!--/Copied from Kazu file for slider testing-->
+	
+		<div class="row">
+			<div class="col-32">		
+			<div class="ms-webpart-zone ms-fullWidth">
+	<div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_1ceab5b9_7572_4f2b_a05b_fd699021f538" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="1ceab5b9-7572-4f2b-a05b-fd699021f538" haspers="false" id="WebPartctl00_SPWebPartManager1_g_1ceab5b9_7572_4f2b_a05b_fd699021f538" width="100%" class="ms-WPBody noindex " allowdelete="false" allowexport="false" style=""><div id="ctl00_SPWebPartManager1_g_1ceab5b9_7572_4f2b_a05b_fd699021f538">
+				<div class="home-feature-wrap">
+					<div class="home-feature" style="position: relative; width: 900px; height: 282px;">
+
+						<div class="home-feature-item" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 5; opacity: 1; width: 900px;">
+							<div class="hf-text">
+								<h1>Sommet international sur la résilience des câbles sous-marins </h1>
+								<p>Des discussions interactives à Porto (Portugal) les 2 et 3 février visent à renforcer le réseau dorsal mondial des communications numériques. </p><p>
+   <a href="/digital-resilience/submarine-cables/events/about-porto-summit/#/fr" target="_blank">En savoir plus et s’inscrire pour participer </a> ​ <br></p> ​ <br>
+							</div>
+							<div class="hf-photo">
+								<a href="https://www.itu.int/digital-resilience/submarine-cables/events/about-porto-summit/#/fr"><img alt="submarine cables" src="/en/PublishingImages/slider/2026/submarine-cables-porto-summit-2026-slider.jpg" style="BORDER: 0px solid; "></a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="home-feature-item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; width: 900px; opacity: 0;">
+							<div class="hf-text">
+								<h1>Bilan de l’année 2025&nbsp;: le message du Secrétaire général de l’UIT </h1>
+								<p>Doreen Bogdan-Martin présente le bilan de l’année de l’UIT et revient sur les principes qui ont guidé l’organisation depuis sa création. </p><p>
+   <a href="/hub/2025/12/itu-year-in-review-2025-secretary-generals-message/#/fr" target="_blank">Lire le message </a> ​ <br></p> ​ <br>
+							</div>
+							<div class="hf-photo">
+								<a href="https://www.itu.int/hub/2025/12/itu-year-in-review-2025-secretary-generals-message/#/fr"><img alt="Year in review 2025 - ITU " src="/en/PublishingImages/slider/2025/YearInReview-2025-slider.jpg" style="BORDER: 0px solid; "></a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="home-feature-item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; width: 900px; opacity: 0;">
+							<div class="hf-text">
+								<h1>Rapport d’aperçu de la CMDT-25 </h1>
+								<p>La Conférence mondiale de développement des télécommunications organisée par l’UIT fixe des orientations en faveur d’une connectivité efficace et d’une adoption du numérique centrée sur l’humain pour le bien de tous. <br></p><p>
+   <a href="/reports/wtdc-snapshot-report-2025#/fr" target="_blank">Consultez le rapport d’analyse de la CMDT-25 </a> ​ <br></p> ​ <br>
+							</div>
+							<div class="hf-photo">
+								<a href="https://www.itu.int/reports/wtdc-snapshot-report-2025/#/fr"><img alt="wtdc-25 snapshot report" src="/en/PublishingImages/slider/2025/wtdc-2-snaphot-report-slider.jpg" style="BORDER: 0px solid; "></a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="home-feature-item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; width: 900px; opacity: 0;">
+							<div class="hf-text">
+								<h1>Déclaration à l’Assemblée générale des Nations Unies&nbsp;: SMSI+20 </h1>
+								<p>La société de l’information n’était qu’un début. «&nbsp;La société intelligente ne sera pas définie uniquement par la technologie&nbsp;», a déclaré Doreen Bogdan Martin. <br></p><p>
+   <a href="/en/osg/Pages/Speeches.aspx?ItemID=78#/fr" target="_blank">Lire la déclaration du Secrétaire général de l’UIT </a> ​ <br></p> ​ <br>
+							</div>
+							<div class="hf-photo">
+								<a href="https://www.itu.int/en/osg/Pages/Speeches.aspx?ItemID=78#/fr"><img alt="wsis20" src="/en/PublishingImages/slider/2025/WSIS20-SG-slider.jpg" style="BORDER: 0px solid; "></a>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div><div class="home-feature-nav">
+						<ul class="clearfix">
+
+							<li class="activeSlide"><img src="/PublishingImages/masterpage/icons/home-feature-active.png" class="arrow" alt=""><a href="#"><img alt="submarine cables" height="68" src="/en/PublishingImages/slider/2026/submarine-cables-porto-summit-2026-slider.jpg?Width=94&amp;Height=68" width="94" style="BORDER: 0px solid; "></a></li>
+							<li><img src="/PublishingImages/masterpage/icons/home-feature-active.png" class="arrow" alt=""><a href="#"><img alt="Year in review 2025 - ITU " height="68" src="/en/PublishingImages/slider/2025/YearInReview-2025-slider.jpg?Width=94&amp;Height=68" width="94" style="BORDER: 0px solid; "></a></li>
+							<li><img src="/PublishingImages/masterpage/icons/home-feature-active.png" class="arrow" alt=""><a href="#"><img alt="wtdc 25 snapshot" height="68" src="/en/PublishingImages/slider/2025/wtdc-2-snaphot-report-slider.jpg?Height=68" width="94" style="BORDER: 0px solid; "></a></li>
+							<li><img src="/PublishingImages/masterpage/icons/home-feature-active.png" class="arrow" alt=""><a href="#"><img alt="wsis20" height="68" src="/en/PublishingImages/slider/2025/WSIS20-SG-slider.jpg?Width=94&amp;Height=68" width="94" style="BORDER: 0px solid; "></a></li>
+						</ul>
+					</div>
+				</div>
+			</div><div class="ms-clear"></div></div>
+		</div>
+	</div>
+</div>
+			</div><!--/.col-32-->			
+		</div><!--/.row-->    
+	    <!-- Kazu slider finish here ******************************* -->  
+     	  
+   	  
+   	  
+   	 <div class="row">
+			<div class="col-32">
+			<div>		
+			   <div class="ms-webpart-zone ms-fullWidth">
+	<div id="MSOZoneCell_WebPartWPQ2" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="dbe9a0aa-f116-4434-a563-629c9bbb4878" haspers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody noindex " allowdelete="false" style=""><div class="ms-rtestate-field"><div class="home-blue-block-new" style="margin-bottom: -25px;"> 
+   <div class="home-blue-block-new home-blue-block-new-header"> 
+      <h2>Actualités et points de vue <br><br><br> ​ <br></h2>
+   </div> 
+</div> </div><div class="ms-clear"></div></div>
+		</div><div class="ms-PartSpacingVertical"></div>
+	</div><div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_c7afd609_faa9_40e7_a20a_f5be1af94436" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="c7afd609-faa9-40e7-a20a-f5be1af94436" haspers="false" id="WebPartctl00_SPWebPartManager1_g_c7afd609_faa9_40e7_a20a_f5be1af94436" width="100%" class="ms-WPBody noindex " allowdelete="false" allowexport="false" style=""><div id="ctl00_SPWebPartManager1_g_c7afd609_faa9_40e7_a20a_f5be1af94436">
+				<link rel="stylesheet" type="text/css" href="/Style Library/ITU-Flexlistviewer.css">
+<div class="flexviewerMainDiv-newsviews" style="">
+  <dl class="flexviewerMainDivDL-newsviews" style="  ">
+    <dt class="flexviewerMainDivDT-newsviews" style="">
+      <div class="flexviewerMainDivDT-image-newsviews" style="">
+        <a href="/itu-d/sites/digital-impact-unlocked/honduras-advances-toward-modern-telecommunications-regulation/#/fr" title=""><img alt="Honduras city" src="/en/PublishingImages/homepage-news-views/2026/Honduras-Telecom-Reg.jpg" style="BORDER: 0px solid; "></a>
+      </div>
+      <br>
+      <div class="flexviewerMainDivDT-textarea-newsviews" style=""><p>​​ <a href="/itu-d/sites/digital-impact-unlocked/honduras-advances-toward-modern-telecommunications-regulation/#/fr" target="_blank">Modernisation des télécommunications au Honduras </a> ​ <br></p></div>
+    </dt>
+  </dl>
+</div>
+<div class="flexviewerMainDiv-newsviews" style="">
+  <dl class="flexviewerMainDivDL-newsviews" style="  ">
+    <dt class="flexviewerMainDivDT-newsviews" style="">
+      <div class="flexviewerMainDivDT-image-newsviews" style="">
+        <a href="/en/itu-wsis/Documents/WSIS20/WSIS+20Report.pdf#/fr" title=""><img alt="wsis20" src="/en/PublishingImages/homepage-news-views/2026/wsis-newsviews.jpg" style="BORDER: 0px solid; "></a>
+      </div>
+      <br>
+      <div class="flexviewerMainDivDT-textarea-newsviews" style=""><p>​ <a href="/en/itu-wsis/Documents/WSIS20/WSIS+20Report.pdf#/fr" target="_blank">Rapport de l’UIT sur le SMSI+20&nbsp;: Construire un avenir numérique pour tous </a></p> ​ <br></div>
+    </dt>
+  </dl>
+</div>
+<div class="flexviewerMainDiv-newsviews" style="">
+  <dl class="flexviewerMainDivDL-newsviews" style="  ">
+    <dt class="flexviewerMainDivDT-newsviews" style="">
+      <div class="flexviewerMainDivDT-image-newsviews" style="">
+        <a href="/hub/2025/12/un-working-group-launches-new-ai-resource-hub/#/fr" title=""><img alt="AI resource" src="/en/PublishingImages/homepage-news-views/2026/UN-AI-resource-hub-newsviews.jpg" style="BORDER: 0px solid; "></a>
+      </div>
+      <br>
+      <div class="flexviewerMainDivDT-textarea-newsviews" style=""><p>​ <a href="/hub/2025/12/un-working-group-launches-new-ai-resource-hub/#/fr" target="_blank">Un groupe de travail de l’ONU lance un nouveau centre de ressources sur l’IA </a></p> ​ <br></div>
+    </dt>
+  </dl>
+</div>
+			</div><div class="ms-clear"></div></div>
+		</div><div class="ms-PartSpacingVertical"></div>
+	</div><div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="a43b3e37-2ed2-40a5-83fc-5972bfd2229c" haspers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex " allowdelete="false" style=""><div class="ms-rtestate-field"><div class="home-blue-block-new" style="margin-bottom: -25px;"> 
+   <div class="home-blue-block-new home-blue-block-new-header"> 
+      <h2>Pour aller plus loin <br><br><br> ​ <br></h2>
+   </div> 
+</div></div><div class="ms-clear"></div></div>
+		</div><div class="ms-PartSpacingVertical"></div>
+	</div><div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_80a39bc9_8634_414e_90c5_1eb2b7a642e1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="80a39bc9-8634-414e-90c5-1eb2b7a642e1" haspers="false" id="WebPartctl00_SPWebPartManager1_g_80a39bc9_8634_414e_90c5_1eb2b7a642e1" width="100%" class="ms-WPBody noindex " allowdelete="false" allowexport="false" style=""><div id="ctl00_SPWebPartManager1_g_80a39bc9_8634_414e_90c5_1eb2b7a642e1">
+				<link rel="stylesheet" type="text/css" href="/Style Library/ITU-Flexlistviewer.css">
+<div class="flexviewerMainDiv-indepth" style="">
+  <dl class="flexviewerMainDivDL-indepth" style="  ">
+    <dt class="flexviewerMainDivDT-indepth" style="">
+      <div class="flexviewerMainDivDT-image-indepth" style="">
+        <a href="/itu-d/reports/statistics/facts-figures-2025/#/fr" title=""><img alt="Facts and figures report 2025" src="/en/PublishingImages/homepage-indepth/2025/facts-and-figures-2025-indepth.jpg" style="BORDER: 0px solid; "></a>
+      </div>
+      <br>
+      <div class="flexviewerMainDivDT-textarea-indepth" style=" "><p>​ <a href="/itu-d/reports/statistics/facts-figures-2025/#/fr" target="_blank">Faits et chiffres 2025 </a></p> ​ <br></div>
+    </dt>
+  </dl>
+</div>
+<div class="flexviewerMainDiv-indepth" style="">
+  <dl class="flexviewerMainDivDL-indepth" style="  ">
+    <dt class="flexviewerMainDivDT-indepth" style="">
+      <div class="flexviewerMainDivDT-image-indepth" style="">
+        <a href="/pub/S-JNL-VOL6.ISSUE3#/fr" title=""><img alt="ITU Journal" src="/en/PublishingImages/homepage-indepth/2025/ITUJournal2025-sustainable-AI-indepth.jpg" style="BORDER: 0px solid; "></a>
+      </div>
+      <br>
+      <div class="flexviewerMainDivDT-textarea-indepth" style=" "><p>​ <a href="/pub/S-JNL-VOL6.ISSUE3#/fr" target="_blank">Le Journal de l’UIT sur la sécurité et la confidentialité pour la génération IA </a> ​​ </p></div>
+    </dt>
+  </dl>
+</div>
+<div class="flexviewerMainDiv-indepth" style="">
+  <dl class="flexviewerMainDivDL-indepth" style="  ">
+    <dt class="flexviewerMainDivDT-indepth" style="">
+      <div class="flexviewerMainDivDT-image-indepth" style="">
+        <a href="/dms_pub/itu-s/opb/gen/s-gen-invest.con-2025-pdf-e.pdf#/fr" title=""><img alt="Connecting Humanity" src="/en/PublishingImages/homepage-indepth/2025/ConnectingHumanity-InDepth.jpg" style="BORDER: 0px solid; "></a>
+      </div>
+      <br>
+      <div class="flexviewerMainDivDT-textarea-indepth" style=" "><p>​ <a href="/dms_pub/itu-s/opb/gen/s-gen-invest.con-2025-pdf-e.pdf#/fr" target="_blank">Plan d’action Connecter l’humanité </a> ​​ </p></div>
+    </dt>
+  </dl>
+</div>
+			</div><div class="ms-clear"></div></div>
+		</div>
+	</div>
+</div>
+			</div>
+			</div><!--/.col-32-->			
+		</div><!--/.row-->    
+   	   
+	</div><!--/.home-centre-band-->
+
+
+    
+	<div class="row">
+	  <div class="col-32">    	
+    	
+        	<div class="home-block home-block-blue home-block-greybg col-first">
+            	
+                 	<div class="block-header"> <!-- Get Involved title -->                	
+                <!--  Get Invovled title using Simple Page Content Field title 8-->
+               		          
+					 <h2>NEWSLETTER </h2>
+					 
+					 
+                  </div>
+                  
+                <div>                
+                  	 <!--  Get Involved Accordian details using Page content  field 3-->
+                               
+				    <div class="home-block-content" style="margin-top:0px;padding:0px;"> 
+   <a href="/hub/news/itu-newsletter-subscribe/#/fr" title="ITU Newsletter" target="_blank"><img src="/en/PublishingImages/homepage-4th-row-box/2025/ITU-newsletter-generic-4th-row-homepage.jpg" alt="WTDC-25 snapshot report" style="margin:0px;"></a>
+   <div style="padding:5px;">S’abonner au <a href="/hub/news/itu-newsletter-subscribe/#/fr" target="_blank">Bulletin d’information de l’UIT </a> . <br> ​ <br> ​ <br> ​ <br></div> ​ </div> ​ <br> ​ <br>
+				     	   	 
+					                   
+                </div><!--/.accordion-->
+                
+                <!--/Webpart zone to add content Editor for left Column -->                       
+               <menu class="ms-hide">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu>  
+          	   
+
+              
+
+            </div><!--/.home-block .home-block-navy-->               
+            
+            <div class="home-block home-block-blue home-block-greybg">
+            
+              <div class="block-header">
+                	 <!--  join ITU title using Simple Page Content Field title 9-->
+                	           
+					 <h2>BILAN DE L’ANNÉE 2025 </h2>
+					 
+					                 
+			   </div>
+                <div> 
+               <!-- Join ITU Contents  using Page content  field 4-->               
+                               
+				    <div class="home-block-content" style="margin-top:0px;padding:0px;"> 
+   <a href="/osg/year-in-review-2025/#/fr" title="Year in review 2025" target="_blank"><img src="/en/PublishingImages/homepage-4th-row-box/2025/YearInReview-2025-4th-row-homepage.jpg" alt="Year in review 2025" style="margin:0px;"></a>
+   <div style="padding:5px;">Découvrir les <a href="/osg/year-in-review-2025/#/fr" target="_blank">Activités et réalisations au cours de l’année </a> . <br> ​ <br> ​ <br> ​ <br></div> ​ </div>
+<br>
+   <br>
+				     	   	 
+					 
+              </div><!--/.home-block-content-->
+              
+              
+               <!--/Webpart zone to add content Editor for center  Column -->                       
+                 
+          	  
+            
+            </div><!--/.home-block .home-block-navy-->
+            
+            <div class="home-block home-block-blue home-block-greybg col-last">   
+ 					
+ 					<div class="block-header">
+                     <!-- Video Feature  title using Simple Page Content Field title 2-->		   	 
+					          
+					 <h2>INSTANTANÉ CMDT-25 </h2>
+					 
+					  
+			             
+                    </div> 
+                    	<!--/Webpart zone to add content Editor for Video -->                       
+               <div class="ms-webpart-zone ms-fullWidth">
+	<div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="3ca2acbd-ed12-4314-b2f7-4ecac0ff8d2e" haspers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex " allowdelete="false" style=""><div class="ms-rtestate-field"><div class="home-block-content" style="margin-top: 0px; padding: 0px;"> 
+   <a href="https://www.itu.int/reports/wtdc-snapshot-report-2025/#/fr" title="WTDC-25 snapshot report" target="_blank">
+      <img src="/en/PublishingImages/homepage-4th-row-box/2025/wtdc25-snapshot-4th-row-homepage.jpg" alt="WTDC-25 snapshot report" style="margin: 0px;"></a>
+   <div style="padding: 5px;">Vérifier <a href="https://www.itu.int/reports/wtdc-snapshot-report-2025/#/fr" target="_blank">ce qui s’est passé à la Conférence mondiale de développement des télécommunications </a> . <br> ​ <br> ​ <br><br></div> ​ </div></div><div class="ms-clear"></div></div>
+		</div>
+	</div>
+</div>  
+          	   
+
+   					
+             
+           </div><!--/.home-block .home-block-navy-->
+        </div><!--/.col-32-->
+	</div><!--/.row-->
+
+<!-- ********************************************** -->
+<!-- 3 Webpart zones and then use Content Editor for Data ************** -->	
+	
+	<div class="row">    
+    	<div class="col-32">
+        	<div class="home-block home-block-blue home-block-greybg col-first">
+  				
+                <div class="block-header">          	
+              	    <!--  About ITU title using Simple Page Content Field title 7-->
+             		          
+					 <h2>À propos de l’UIT </h2>
+					 
+					 	
+                     
+               </div>
+
+                 <div>                
+				 <!-- About ITU Content using Page content 2 field-->
+                               
+				    <div class="home-block-content"><ul class="ms-rteStyle-ITUXCommuQuickLinks" style="background-color:#ebebeb;"><li>​ <a href="/en/about/Pages/default.aspx#/fr">Qui sommes-nous&nbsp;? </a> ​ </li><li> 
+         <a href="/en/ITU-D/Pages/Regional-Presence.aspx#/fr">Notre présence régionale </a> ​ <br></li><li> 
+         <a href="https://academy.itu.int/#/fr" target="_blank">Académie de l’UIT </a><br></li><li> 
+         <a href="/en/council/planning/Pages/default.aspx#/fr">Plan stratégique de l’UIT </a><br></li><li>​ <a href="/highlights-report-activities/connect2030-agenda#/fr" target="_blank">Programme Connect 2030&nbsp;: progrès accomplis dans la réalisation des cibles du Plan stratégique </a></li><li>
+         <a href="/en/council/planning/Documents/ITU-Annual-report-2024-french.pdf#/fr" target="_blank">Rapport annuel de l’UIT pour 2024 </a></li><li> 
+         <a href="/wtisd#/fr" target="_blank">Journée mondiale des télécommunications et de la société de l’information </a> | <a href="/160-anniversary#/fr" target="_blank">160ème anniversaire de l’UIT </a><br></li><li>
+         <a href="/en/action/gender-equality/Pages/default.aspx#/fr" target="_blank">Egalité hommes-femmes </a> ​ <br></li><li>​ <a href="/en/history/Pages/home.aspx#/fr">Histoire de l’UIT </a> ​ </li><li> 
+         <a href="/hqbuilding#/fr">Siège de l’UIT&nbsp;: projet de nouveau bâtiment </a></li><li> 
+         <a href="/en/procurement/Pages/default.aspx#/fr">Approvisionnement </a><br></li><li>​ <a href="/en/ethics/pages/default.aspx#/fr">Bureau de l’éthique </a><br></li><li><a href="/en/oversight-unit/Pages/default.aspx#/fr">Unité du contrôle interne </a><br></li>
+   </ul> ​ <br> ​ </div> ​ <br> ​ <br>
+				     	   	 
+					                      
+                </div><!--/.home-block-content-->  
+                
+                
+                 <!--/Webpart zone to add content Editor for left Column 2 -->                       
+                 
+          	 
+          	 
+
+
+        </div><!--/.home-block .home-block-blue home-block-greybg-->
+            
+            <div class="home-block home-block-blue home-block-greybg">
+            
+                 <div class="block-header">
+                  <!--  Feature Box 1 title using Simple Page Content Field title 5-->					 		   	 
+					          
+					 <h2>GOUVERNANCE </h2>
+					 
+					 	
+                </div>                
+          
+                 
+                 <!-- Removed the class for feature box image field  by Rajani VEPa on 19 april 2012
+                   <div class="home-block-content">  -->
+                   
+                    <div>
+                    <!--  Feature Box 1 Contents  using Page content  field 5-->
+                              
+				    <div class="home-block-content"><ul class="ms-rteStyle-ITUXCommuQuickLinks" style="background-color:#ebebeb;"><li> 
+         <a href="https://pp.itu.int/2026/en/#/fr" target="_blank">Conférence de plénipotentiaires de l’UIT </a></li><li>
+         <a href="https://council.itu.int/2026/en/#/fr">Conseil de l’UIT </a></li><li>​​ <a href="/reports/council#/fr">Rapport d’analyse de la session de 2023 du Conseil de l’UIT </a> ​ <br></li><li>​ <a href="/pub/S-CONF-PLEN#/fr" style="background-color:initial;">Textes fondamentaux de l’UIT </a><br></li><li>
+         <a href="/fr/access-policy/Pages/default.aspx#/fr">Politique de l’UIT en matière d’accès à l’information/aux documents </a></li><li>
+         <a href="/fr/council/Pages/rto.aspx#/fr">Organisations régionales de télécommunication </a></li><li>
+         <a href="/fr/events/Pages/conferences.aspx#/fr">Conférences </a> ​ <br><br><br><br><br> ​ <br></li></ul></div> ​ <br>
+				     	   	 
+					   					
+                </div><!--/.home-block-content-->     
+                
+
+ 					<!--/Webpart zone to add content Editor for center Column 2-->                       
+               <div class="ms-webpart-zone ms-fullWidth">
+	<div id="MSOZoneCell_WebPartWPQ5" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="f87810fc-c614-4309-83e8-5ff439b12910" haspers="false" id="WebPartWPQ5" width="100%" class="ms-WPBody noindex " allowdelete="false" style=""><div class="ms-rtestate-field">	  
+  	<!-- Toaster of Netanel -->
+	  <div class="ituCardNotification active">
+		<div class="ituCardNotificationContent">
+		<div class="message">
+		<span id="toastMessage" class="text text-1 do_not_translate">Ce texte est une traduction automatique basée sur la version anglaise originale.</span>
+		<a id="toastMessageDisclaimer" href="https://www.itu.int/fr/general-secretariat/Pages/itu-translate-disclaimer.aspx#/fr" class="text text-2">Voir la clause de non-responsabilité</a> <br>
+		<i class="fa-solid fa-comment-dots "></i>
+		<a style="font-size:14px" id="toastMessageFeedback" class="text-3 do_not_translate"></a> <br>
+		</div>
+		</div>
+		<i class="fa-solid fa-xmark close"></i>
+		</div>
+	  <style>
+/* styles for the notification card */
+.ituCardNotification{
+    position: fixed;
+	top: 270px;
+	right: 19px;
+    border-radius: 4px;
+    background-color:#2f2f2f;
+    color:white;
+    width: 320px;
+    padding: 1.5rem;
+    box-shadow: 00 0 1.5rem #a9cad814;
+    overflow: hidden;
+	display: none;
+	z-index: 999999999999999999999999;
+	border-left: 3px solid #009CD6;
+    /* transform: translateX(calc(100% + 0px)); */
+    /* transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.35); */
+
+}
+
+.ituCardNotification.active{
+    transform: translateX(0);
+    display: block;
+	
+}
+
+.ituCardNotification .ituCardNotificationContent{
+    display: flex;
+    align-items: center;
+}
+
+
+.ituCardNotificationContent .message{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.message .text{
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+	margin-left: 0px !important;
+}
+.text-2 {
+	font-size: 16px;
+    font-weight: 400;
+    color: white;
+	margin-left: 0px !important;		
+	text-decoration: underline;
+		}
+.text-3 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #3789bd !important;
+    margin-left: 0px !important;		
+    text-decoration: underline;
+        }
+        
+.ituCardNotification .close{
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    padding: 5px;
+    cursor: pointer;
+    opacity: 0.7;
+
+}
+
+.ituCardNotification .close::before {  
+content: "×";  
+color: white;  
+font-weight: bold;  
+}  
+
+.ituCardNotification .close{
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    padding: 5px;
+    cursor: pointer;
+    opacity: 0.7;
+
+}
+
+.ituCardNotification .close:hover{
+    opacity: 1;
+}
+
+
+
+.ituCardNotification.active ~ button{
+    pointer-events: none;
+}
+
+/* styles for separator and about/disclaimer */
+.separator {
+  border-top: 1px solid #ccc;
+  margin: 10px 0;
+  padding: 0;
+}
+
+.about {
+  text-align: center;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about a {
+  color: #333;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.about a:hover {
+  color: #e91e63;
+}
+
+.about span {
+  margin: 0 5px;
+}
+
+/* style for the sticky button */
+.sticky-btn {
+  position: fixed;
+  top: 200px;
+  right: -15px;
+  transition: right 0.3s ease-in-out;
+}
+.sticky-btn-icon {
+	padding-bottom: 8px; 
+	margin-right: -8px;
+}
+
+.btn-container {
+  position: relative;
+}
+
+.feedback-btn {
+  background-color: white;
+  color: #fff;
+  padding: 0px 20px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 30px;
+  box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.3);
+}
+
+.feedback-btn:hover + .language-options {
+  right: 0;
+}
+
+/* styles for the ul/li list */
+.language-options {
+  position: absolute;
+  top: 20;
+  right: -150px;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: right 0.1s ease-in-out;
+  z-index: 999;
+  width: 140px;
+}
+
+.language-options ul {
+  margin: 0;
+  padding: 0;
+}
+.language-options ul li {
+    list-style: none !important;
+  /* border-bottom: solid gray 1px; */
+}
+
+.language-options li a {
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+  display: block;
+}
+
+.language-options li a:hover {
+  color: #e91e63;
+}
+
+.btn-container:hover .feedback-btn {
+  transform: translateX(0);
+}
+
+.btn-container:hover .feedback-btn:hover {
+  transform: translateX(0);
+}
+
+.btn-container:hover .language-options {
+  right: 15px;
+}
+	  </style>
+        <script>
+let originalTextNodes = null;  
+function toggleLanguageOptions(event) {  
+  event.preventDefault();   const languageOptions = document.querySelector('.language-options');  
+  const currentRight = parseInt(getComputedStyle(languageOptions).right);  
+  if (currentRight === 15) {  
+    languageOptions.style.right = '-150px';  
+  } else {  
+    languageOptions.style.right = '15px';  
+  }  
+}  
+
+document.addEventListener("DOMContentLoaded", function() {
+
+	
+  
+  function initAutoTranslation() {  
+
+  
+  var detectedLanguage = detectLanguageFromPath(); 
+ // if (detectedLanguage == "en")
+ // {
+ // detectedLanguage = "fr"
+  //}
+  if (detectedLanguage) {  
+  console.log("detectedLanguage", detectedLanguage)
+    onTranslateButtonClick(detectedLanguage);  
+  } else {  
+    loadPreferredLanguageAndTranslate();  
+  }  
+}  
+
+function detectLanguageFromPath() {  
+    const path = window.location.pathname;  
+    const languageRegex = /\/(ar|zh|en|fr|ru|es)\//;  
+  	console.log(path)
+  	console.log(languageRegex)
+  	   
+    const match = path.match(languageRegex); 
+    console.log(match) 
+    if (match && match[1]) { 
+    console.log(match[1]) 
+      return match[1];  
+    }  
+  
+    return null;  
+  }
+
+
+  
+// Call the initAutoTranslation function at the end of the script  
+initAutoTranslation();  
+
+
+function detectLanguageFromHash() {  
+  const hash = window.location.hash;  
+  
+  if (hash.startsWith('#/')) {  
+    const langCode = hash.substring(2); // Remove the "#/" prefix  
+    return langCode;  
+  }  
+  
+  return null;  
+}  
+
+function getTextNodes(parentNode) {      
+  let nodes = [];      
+  const treeWalker = document.createTreeWalker(      
+    parentNode,      
+    NodeFilter.SHOW_TEXT,      
+    {      
+      acceptNode: function (node) {      
+        if (      
+          isAttributeNode(node) ||      
+          isDescendantOfScriptOrStyleOrComment(node) ||      
+          isDescendantOfTaglineLangSwitcher(node) ||    
+          node.parentNode.classList.contains("do_not_translate")      
+        ) {      
+          return NodeFilter.FILTER_REJECT;      
+        }      
+        return NodeFilter.FILTER_ACCEPT;      
+      },      
+    },      
+    false      
+  );      
+      
+  while (treeWalker.nextNode()) {      
+    const node = treeWalker.currentNode;      
+    const trimmedText = node.textContent.trim();      
+    if (trimmedText) {      
+      nodes.push({ node, text: trimmedText + " " });      
+    }      
+  }      
+  return nodes;      
+}    
+  
+  
+function isVisible(node) {  
+  const parentNodeStyle = getComputedStyle(node.parentNode);  
+  const rect = node.parentNode.getBoundingClientRect();  
+  const isZeroSize = rect.height === 0 || rect.width === 0;  
+  
+  // Check if the parent element has the class "modal-dialog"  
+  const isModalDialog = isDescendantOfModalDialog(node);  
+  
+  // Check if the parent element has the class "home-feature-item"  
+  const isHomeFeatureItem =  
+    node.parentNode.classList.contains("home-feature-item");  
+  
+  // Check if the parent element has the class "hf-text"  
+  const isParentHfText = node.parentNode.classList.contains("hf-text");  
+  
+  const visible =  
+    (parentNodeStyle.display !== "none" &&  
+      parentNodeStyle.visibility !== "hidden" &&  
+      !isZeroSize) ||  
+    isModalDialog ||  
+    isParentHfText ||  
+    isHomeFeatureItem;  
+  
+  if (visible) {  
+    console.log("Visible node:", node); // Log the visible node  
+  }  
+  
+  return visible;  
+}  
+ 
+  
+  
+
+
+function isDescendantOfModalDialog(node) {  
+  let currentNode = node;  
+  while (currentNode.parentNode) {  
+    currentNode = currentNode.parentNode;  
+    if (  
+      currentNode.nodeType === Node.ELEMENT_NODE &&  
+      currentNode.classList.contains("modal-dialog")  
+    ) {  
+      return true;  
+    }  
+  }  
+  return false;  
+}  
+
+function acceptNode(node) {    
+  if (    
+    !isVisible(node) ||    
+    isAttributeNode(node) ||    
+    isDescendantOfIgnoredElement(node) ||    
+    isDescendantOfTaglineLangSwitcher(node) // Add this line  
+  ) {    
+    return NodeFilter.FILTER_REJECT;    
+  }    
+  return NodeFilter.FILTER_ACCEPT;    
+}  
+
+function isDescendantOfTaglineLangSwitcher(node) {  
+  let currentNode = node.parentNode;  
+  while (currentNode) {  
+    if (  
+      currentNode.nodeType === Node.ELEMENT_NODE &&  
+      currentNode.classList.contains("tagline") &&  
+      currentNode.classList.contains("lang-switcher")  
+    ) {  
+      return true;  
+    }  
+    currentNode = currentNode.parentNode;  
+  }  
+  return false;  
+}  
+  
+
+  
+function isDescendantOfIgnoredElement(node) {  
+  const ignoredTags = [  
+    "script",  
+    "style",  
+    "iframe",  
+    "noscript",  
+    "template",  
+    "svg",  
+  ];  
+  let currentNode = node;  
+  
+  while (currentNode.parentNode) {  
+    currentNode = currentNode.parentNode;  
+  
+    if (  
+      currentNode.nodeType === Node.ELEMENT_NODE &&  
+      ignoredTags.includes(currentNode.tagName.toLowerCase())  
+    ) {  
+      return true;  
+    }  
+  }  
+  
+  return false;  
+}  
+  
+function isDescendantOfScriptOrStyleOrComment(node) {  
+  let currentNode = node;  
+  while (currentNode.parentNode) {  
+    currentNode = currentNode.parentNode;  
+    if (  
+      currentNode.nodeType === Node.ELEMENT_NODE &&  
+      (currentNode.tagName.toLowerCase() === "script" ||  
+        currentNode.tagName.toLowerCase() === "style") ||  
+      currentNode.nodeType === Node.COMMENT_NODE  
+    ) {  
+      return true;  
+    }  
+  }  
+  return false;  
+}    
+  
+function isAttributeNode(node) {  
+  // Check if the node is an attribute node by seeing if its parent is an ATTRIBUTE_NODE  
+  return node.parentNode && node.parentNode.nodeType === Node.ATTRIBUTE_NODE;  
+}  
+  
+ 
+  
+  
+
+function handleSavePreferredLanguageCheckboxChange() {  
+  const savePreferredLanguageCheckbox = document.getElementById("savePreferredLanguage");  
+  if (savePreferredLanguageCheckbox.checked) {  
+    localStorage.setItem("savePreferredLanguage", "true");  
+  } else {  
+    localStorage.removeItem("savePreferredLanguage");  
+  }  
+}  
+
+async function translateTexts(texts, targetLanguage) {  
+//   const azureFunctionUrl = 'http://localhost:7071/api/translate_text_array';  
+
+    const azureFunctionUrl = 'https://translate.itu.int/api/translate_text_array'; 
+  
+  try {  
+    const response = await fetch(azureFunctionUrl, {  
+      method: 'POST',  
+      headers: {  
+        'Content-Type': 'application/json'  
+      },  
+      body: JSON.stringify({  
+        texts: texts,  
+        target_language: targetLanguage,  
+        url: window.location.href
+      })  
+    });  
+  
+    if (!response.ok) {  
+      throw new Error(`HTTP error: ${response.status}`);  
+    }  
+  
+    const translatedTexts = await response.json();  
+    return translatedTexts;  
+  
+  } catch (error) {  
+    console.error('Error calling Azure Function:', error);  
+    handleError();
+    return null;  
+  }  
+}  
+ 
+
+function getAllTextNodesFromWebPage() {      
+  const allTextNodes = [];  
+    
+  // Extract texts from 'home-feature-item' div  
+  const homeFeatureItem = document.querySelector('.home-centre-band');  
+  if (homeFeatureItem) {  
+    allTextNodes.push(...getTextNodes(homeFeatureItem));  
+  }  
+    
+  // Extract texts from 'row' divs that come after 'home-feature-item'  
+  const subsequentDivs = Array.from(homeFeatureItem.parentElement.children);  
+  const homeFeatureItemIndex = subsequentDivs.indexOf(homeFeatureItem);  
+  if (homeFeatureItemIndex !== -1) {  
+    const divsAfterHomeFeatureItem = subsequentDivs.slice(homeFeatureItemIndex + 1);  
+    divsAfterHomeFeatureItem.forEach(div => {  
+      if (div.classList.contains('row')) {  
+        allTextNodes.push(...getTextNodes(div));  
+      }  
+    });  
+  }  
+    
+  return allTextNodes;      
+}      
+     
+    
+    
+  
+function setPageDirection(direction) {  
+  document.documentElement.setAttribute('dir', direction);  
+}  
+  
+function replaceTextsWithTranslations(textNodes, translatedTexts) {  
+  for (let i = 0; i < textNodes.length; i++) {  
+    const { node } = textNodes[i];  
+    const translatedText = translatedTexts[i];  
+  
+    // Add a leading space if the node is not the first child of its parent  
+    const leadingSpace = node.previousSibling ? ' ' : '';  
+  
+    node.textContent = leadingSpace + translatedText;  
+  }  
+}  
+
+function showToastMessage(targetLanguage) {  
+    const toaster = document.querySelector('.ituCardNotification');  
+
+    // Define email addresses for each target language  
+  const emailAddresses = {  
+    fr: "LING-F@itu.int", // French  
+    zh: "LING-C@itu.int", // Chinese  
+    ru: "LING-R@itu.int", // Russian  
+    es: "LING-S@itu.int", // Spanish  
+    ar: "LING-A@itu.int", // Arabic  
+  }; 
+
+  // Define CC email addresses (optional)  
+  const ccEmail = "ling-it-support@itu.int"; 
+  
+  // Get the email address for the target language  
+  const email = emailAddresses[targetLanguage] || emailAddresses['en']; // Default to English if not found  
+  
+  // Get the current window URL  
+  const currentUrl = window.location.href;  
+  
+  // Construct a user-friendly subject and body for the email  
+  const subject = encodeURIComponent("ITU Translate | Machine Translation Users Feedback");  
+ // Construct a user-friendly subject and body for the email  
+    let body;
+
+    switch (targetLanguage) {
+        case 'fr':
+          body = encodeURIComponent(`
+      Bonjour,
+      
+      Je souhaite donner mon avis concernant la traduction automatique de la page web suivante:
+      
+      ${currentUrl}
+      
+      Veuillez trouver mes commentaires ici:
+      
+      [Saisissez ici vos commentaires ou tout terme mal traduit]
+      
+      Bien cordialement,
+      
+      [Votre nom]`);
+          break;
+      
+        case 'es':
+          body = encodeURIComponent(`
+      Hola:
+      
+      Quiero dar mi opinión sobre la traducción automática de esta página web:
+      
+      ${currentUrl}
+      
+      A continuación pueden encontrarse mis observaciones:
+      
+      [Introduzca aquí sus observaciones o todo error de traducción detectado]
+      
+      Atentamente,
+      
+      [Su nombre]`);
+          break;
+      
+        case 'ru':
+          body = encodeURIComponent(`
+      Здравствуйте,
+      
+      Я хотел(а) бы оставить отзыв о машинном переводе этой веб-страницы:
+      
+      ${currentUrl}
+      
+      С моими комментариями можно ознакомиться здесь:
+      
+      [Введите здесь свои комментарии или любые неправильно переведенные слова]
+      
+      С уважением,
+      
+      [Ваше имя]`);
+          break;
+      
+        case 'ar':
+            body = encodeURIComponent(`
+        مرحباً،
+        
+        أودُّ أن أعبِّر عن رأيي في الترجمة الآلية لهذه الصفحة:
+        
+        ${currentUrl}
+        
+        يمكنكم الاطلاع على تعليقاتي هنا:
+        
+        [أَدخل هنا تعليقاتك أو أي كلمات غير مترجمة ترجمةً صحيحة]
+        
+        مع أطيب التحيات،
+        
+        [اسمك]
+        `).replace(/%0A/g, '%0A%E2%80%8F').replace(/^/, '%E2%80%8F'); // RTL mark and enforce right-to-left alignment explicitly
+          break;
+          
+          case 'zh':
+          body = encodeURIComponent(`
+      您好！
+      
+      我想就此网页的机器翻译提供反馈：
+      
+      ${currentUrl}
+      
+      请在此处查看我的意见：
+      
+      [在此处输入您的意见或任何误译的词语]
+      
+      顺致敬意！
+      
+      [您的姓名]`);
+          break;
+        default: // English and other languages:
+          body = encodeURIComponent(`
+      Hello,
+      
+      I would like to provide feedback on the machine translation of this webpage:
+      
+      ${currentUrl}
+      
+      Please find my comments here:
+      {Enter your comments or any mistranslated words here}
+      
+      Best regards,
+      [Your Name]`);
+          break;
+      }   
+        
+        // Construct the mailto link  
+        const mailtoLink = `mailto:${email}?cc=${ccEmail}&subject=${subject}&body=${body}`;  
+      
+  // Update the content and links based on the target language  
+  switch (targetLanguage) {  
+    case 'fr':  
+      document.querySelector("#toastMessage").innerHTML = "Ce texte est une traduction automatique basée sur la version anglaise originale.";  
+      document.querySelector("#toastMessageDisclaimer").innerHTML = "Voir la clause de non-responsabilité";  
+      //document.querySelector("#toastMessageFeedback").innerHTML = "✉️ Faites-nous part de vos commentaires ";  
+      document.querySelector("#toastMessageDisclaimer").setAttribute("href", "https://www.itu.int/" + targetLanguage + "/general-secretariat/Pages/itu-translate-disclaimer.aspx");  
+      //document.querySelector("#toastMessageFeedback").setAttribute("href", mailtoLink);  
+      break;  
+    case 'zh':  
+      document.querySelector("#toastMessage").innerHTML = "这是基于英文原版的机器翻译译文。";  
+      document.querySelector("#toastMessageDisclaimer").innerHTML = "请参阅完整的免责声明。";  
+      //document.querySelector("#toastMessageFeedback").innerHTML = "✉️ 分享您的反馈"; 
+      document.querySelector("#toastMessageDisclaimer").setAttribute("href", "https://www.itu.int/" + targetLanguage + "/general-secretariat/Pages/itu-translate-disclaimer.aspx");  
+      //document.querySelector("#toastMessageFeedback").setAttribute("href", mailtoLink);  
+      break;  
+    case 'ru':  
+      document.querySelector("#toastMessage").innerHTML = "Это машинный перевод, основанный на оригинальной английской версии.";  
+      document.querySelector("#toastMessageDisclaimer").innerHTML = "Ознакомьтесь с правовой оговоркой.";  
+      //document.querySelector("#toastMessageFeedback").innerHTML = "✉️ Поделитесь своим отзывом"; 
+      document.querySelector("#toastMessageDisclaimer").setAttribute("href", "https://www.itu.int/" + targetLanguage + "/general-secretariat/Pages/itu-translate-disclaimer.aspx");  
+      //document.querySelector("#toastMessageFeedback").setAttribute("href", mailtoLink);  
+      break;  
+    case 'es':  
+      document.querySelector("#toastMessage").innerHTML = "Esta es una traducción automática basada en la versión original en inglés.";  
+      document.querySelector("#toastMessageDisclaimer").innerHTML = "Véase la cláusula de descargo de responsabilidad.";  
+      //document.querySelector("#toastMessageFeedback").innerHTML = "✉️ Denos su opinión"; 
+      document.querySelector("#toastMessageDisclaimer").setAttribute("href", "https://www.itu.int/" + targetLanguage + "/general-secretariat/Pages/itu-translate-disclaimer.aspx");  
+      //document.querySelector("#toastMessageFeedback").setAttribute("href", mailtoLink);  
+      break;  
+    case 'ar':  
+      document.querySelector("#toastMessage").innerHTML = ".هذه ترجمة آلية تستند إلى الصيغة الإنكليزية الأصلية";  
+      document.querySelector("#toastMessageDisclaimer").innerHTML = ".انظر بيان إخلاء المسؤولية";  
+      //document.querySelector("#toastMessageFeedback").innerHTML = "✉️ عبِّر عن رأيك"; 
+      document.querySelector("#toastMessageDisclaimer").setAttribute("href", "https://www.itu.int/" + targetLanguage + "/general-secretariat/Pages/itu-translate-disclaimer.aspx");  
+      //document.querySelector("#toastMessageFeedback").setAttribute("href", mailtoLink);  
+      break;  
+    default:  
+      document.querySelector("#toastMessage").innerHTML = "";  
+      document.querySelector("#toastMessageDisclaimer").innerHTML = "";  
+      document.querySelector("#toastMessageFeedback").innerHTML = "";
+      toaster.classList.remove('visible');  
+      return;  
+  }      
+  toaster.classList.add('active');  
+
+}  
+
+function showTranslatingMessage() {  
+  document.querySelector("#toastMessage").innerHTML = "Translating...";  
+  document.querySelector("#toastMessageDisclaimer").innerHTML = "";  
+  document.querySelector("#toastMessageFeedback").innerHTML = ""; 
+  document.querySelector(".ituCardNotification").classList.add("active");  
+  resetToasterStyling();  
+}  
+
+function addLanguageHashToAllLinks(hash) {  
+  const links = document.querySelectorAll("a");  
+  links.forEach((link) => {  
+    const href = link.getAttribute("href");  
+    if (href && href.indexOf("#") === -1 && href.indexOf("javascript:") === -1) {  
+      link.setAttribute("href", href + hash);  
+    }  
+  });  
+}  
+
+async function performTranslation(textNodes, targetLanguage) {    
+  const translatedNodes = await translateTexts(textNodes.map((n) => n.text), targetLanguage);    
+  if (translatedNodes === null) {    
+    // Stop the translation process if an error occurred during the API call    
+    return;    
+  }    
+  replaceTextsWithTranslations(textNodes, translatedNodes);    
+    
+  // Update the bullet points' styles    
+  const style = document.createElement('style');    
+  style.innerHTML = `    
+    ul.ms-rteStyle-ITUXCommuQuickLinks li {    
+      padding: 5px 0 5px 15px !important;  
+      background: url(/PublishingImages/masterpage/icons/quicklinks-arrow.gif) no-repeat 0 10px;  
+      line-height: 1.3;  
+      list-style: none !important;  
+    }  
+    ul.ms-rteStyle-ITUXCommuQuickLinks li.arabic {    
+      padding: 5px 10px 5px 15px !important;    
+      background-image: url('/PublishingImages/masterpage/icons/quicklinks-arrow-ar.gif') !important;    
+      background-position: 100% 10px !important;    
+      text-align: right !important;    
+    }    
+  `;    
+  document.head.appendChild(style);    
+    
+  const bulletPoints = document.querySelectorAll('ul.ms-rteStyle-ITUXCommuQuickLinks li');    
+  bulletPoints.forEach((li) => {    
+    if (targetLanguage === 'ar') {    
+      li.classList.add('arabic');    
+    } else {    
+      li.classList.remove('arabic');    
+    }    
+  });      
+    
+  // Change the page direction to RTL if the target language is Arabic    
+  if (targetLanguage === 'ar') {    
+    setPageDirection('rtl');    
+  } else {    
+    setPageDirection('ltr');    
+  }    
+    
+  // Show the toaster message    
+  showToastMessage(targetLanguage);    
+  addLanguageHashToAllLinks("#/" + targetLanguage);
+}    
+ 
+
+function onTranslateButtonClick(targetLanguage) {  
+  if (targetLanguage === "en" && !originalTextNodes) {  
+    // No need to translate if the language is English and there's no original text saved  
+    return;  
+  }  
+  
+  resetToasterStyling(); // Reset the toaster styling  
+  
+  // Show the "Translating..." message  
+  showTranslatingMessage();  
+  
+  if (!originalTextNodes) {  
+    originalTextNodes = getAllTextNodesFromWebPage();  
+  }  
+  console.log(originalTextNodes);  
+  
+  if (targetLanguage !== "en") {  
+    performTranslation(originalTextNodes, targetLanguage);  
+  } else {  
+    replaceTextsWithTranslations(originalTextNodes, originalTextNodes.map((n) => n.text));  
+    setPageDirection("ltr");  
+    document.querySelector(".ituCardNotification").classList.remove("active");  
+  }  
+  
+  if (targetLanguage === 'en') {  
+    const bulletPoints = document.querySelectorAll('ul.ms-rteStyle-ITUXCommuQuickLinks li');  
+    bulletPoints.forEach((li) => {  
+      if(li.classList.contains('arabic')) {  
+        li.classList.remove('arabic');  
+      }  
+    });  
+  } 
+  // Update the URL's hash with the language code  
+  window.location.hash = targetLanguage === "en" ? "" : "#/" + targetLanguage;  
+  
+  // Save the selected language in local storage  
+  //saveLanguagePreference(targetLanguage);  
+}  
+
+ 
+
+function loadPreferredLanguageAndTranslate() {  
+  const savePreferredLanguageCheckbox = document.getElementById("savePreferredLanguage");  
+  const savePreferredLanguage = localStorage.getItem("savePreferredLanguage");  
+  
+  if (savePreferredLanguage === "true") {  
+    savePreferredLanguageCheckbox.checked = true;  
+    const preferredLanguage = localStorage.getItem('preferredLanguage');  
+    const detectedLanguage = detectLanguageFromHash();  
+  
+    if (preferredLanguage && preferredLanguage !== detectedLanguage && preferredLanguage !== 'en') {  
+      onTranslateButtonClick(preferredLanguage);  
+    }  
+  } else {  
+    savePreferredLanguageCheckbox.checked = false;  
+  }  
+}  
+  
+  
+ 
+
+// Call the loadPreferredLanguageAndTranslate function at the end of the script  
+// loadPreferredLanguageAndTranslate();  
+
+function resetToasterStyling() {  
+  const toaster = document.querySelector('.ituCardNotification');  
+  toaster.style.backgroundColor = ''; // Remove the orange background color  
+}  
+
+
+function handleError() {  
+  console.log("request");  
+  
+  var toast = document.querySelector(".ituCardNotification");  
+  var closeIcon = document.querySelector(".close");  
+  var progress = document.querySelector(".progress");  
+  document.querySelectorAll(".progress").forEach(function(element) {  
+        element.style.display = "none";  
+      }); 
+  
+  document.querySelector("#toastMessage").innerHTML =  
+    "We are experiencing a temporary issue with the translation service. Please try again later.";  
+  document.querySelector("#toastMessageDisclaimer").innerHTML = "";  
+  
+  // Change the background color to orange  
+  toast.style.backgroundColor = "orange";  
+  
+  toast.classList.add("active");  
+
+}  
+
+
+// Add click event listeners to each button  
+// Add click event listeners to each button  
+// document.getElementById('AutoTransAr').addEventListener('click', () => onTranslateButtonClick('ar'));  
+// document.getElementById('AutoTransZh').addEventListener('click', () => onTranslateButtonClick('zh'));  
+// document.getElementById('OriginalPage').addEventListener('click', () => onTranslateButtonClick('en'));  
+// document.getElementById('AutoTransFr').addEventListener('click', () => onTranslateButtonClick('fr'));  
+// document.getElementById('AutoTransRu').addEventListener('click', () => onTranslateButtonClick('ru'));  
+// document.getElementById('AutoTransEs').addEventListener('click', () => onTranslateButtonClick('es'));  
+  
+document.querySelector('.ituCardNotification .close').addEventListener('click', () => {  
+  document.querySelector('.ituCardNotification').classList.remove('active');  
+});  
+//document.getElementById("savePreferredLanguage").addEventListener("change", handleSavePreferredLanguageCheckboxChange);  
+
+});
+//document.querySelector('.feedback-btn').addEventListener('click', (event) => toggleLanguageOptions(event));  
+ 
+
+		</script>
+<!--/END of Allaeddine Script for Machine Translation  -->   </div><div class="ms-clear"></div></div>
+		</div>
+	</div>
+</div>  
+          	 
+         
+                
+            </div><!--/.home-block .home-block-blue home-block-greybg-->
+
+            
+            <div class="home-block home-block-blue home-block-greybg members-zone col-last">
+            
+                   <div class="block-header">                	     				
+	     				<!--  Feature Box 2 title using Simple Page Content Field title 6-->
+	     				          
+						 <h2>Événements </h2>
+						 
+						 	
+                 </div>
+                  
+                <!-- Removed the class for feature box image field  by Rajani VEPa on 19 april 2012
+                   <div class="home-block-content">  -->
+
+                  <div>
+                    <!--  Feature Box 2 Contents  using Page content  field 6-->
+                              
+				    
+				     	   	 
+					   					
+                </div><!--/.home-block-content-->   
+                
+
+ 				<!--/Webpart zone to add content Editor for right Column -->                       
+               <div class="ms-webpart-zone ms-fullWidth">
+	<div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_bb298242_a365_49ca_b2a3_825385895b33" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="bb298242-a365-49ca-b2a3-825385895b33" haspers="false" id="WebPartctl00_SPWebPartManager1_g_bb298242_a365_49ca_b2a3_825385895b33" width="100%" class="ms-WPBody noindex " allowdelete="false" allowexport="false" style=""><div id="ctl00_SPWebPartManager1_g_bb298242_a365_49ca_b2a3_825385895b33">
+				<table id="cbqwp" cellspacing="0" width="100%" cellpadding="0" class="cbq-layout-main" style="background:url(/PublishingImages/masterpage/background/rounded-grey-300.png) no-repeat bottom left;">
+  <tbody><tr>
+    <td id="column" width="100%" valign="top" style="padding-bottom:20px !important;"><ul class="ms-rteStyle-ITUXCommuQuickLinks" style="padding:5px 20px 0px 20px !important;"><li><a href="/digital-resilience/submarine-cables/events/about-porto-summit/#/fr" title="" style="font-size:1.0em; font-weight:normal;">Sommet international sur la résilience des câbles sous-marins de 2026 </a><br><span style="font-size:1.0em; margin-top:-5px;"><p>Porto, Portugal, 2 et 3 février 2026 </p></span></li></ul><ul class="ms-rteStyle-ITUXCommuQuickLinks" style="padding:5px 20px 0px 20px !important;"><li><a href="/en/ITU-R/seminars/rrs/RRS-26-Europe/Pages/default.aspx#/fr" title="" style="font-size:1.0em; font-weight:normal;">Séminaire régional des radiocommunications de 2026 de l’UIT pour l’Europe (RRS-26-Europe) </a><br><span style="font-size:1.0em; margin-top:-5px;"><p>Athènes (Grèce), 16-20 février 2026 </p></span></li></ul><ul class="ms-rteStyle-ITUXCommuQuickLinks" style="padding:5px 20px 0px 20px !important;"><li><a href="https://wtisd.itu.int/2026/#/fr" title="" style="font-size:1.0em; font-weight:normal;">Journée mondiale des télécommunications et de la société de l’information (WTISD-26) </a><br><span style="font-size:1.0em; margin-top:-5px;"><p>17 mai 2026 </p></span></li></ul><ul class="ms-rteStyle-ITUXCommuQuickLinks" style="padding:5px 20px 0px 20px !important;"><li><a href="https://wtpf.itu.int/2026/#/fr" title="" style="font-size:1.0em; font-weight:normal;">Forum mondial des politiques de télécommunication/technologies de l’information et de la communication (FMPT-26) </a><br><span style="font-size:1.0em; margin-top:-5px;"><p>Nassau (Bahamas), 9-11 juin 2026 </p></span></li></ul><ul class="ms-rteStyle-ITUXCommuQuickLinks" style="padding:5px 20px 0px 20px !important;"><li><a href="https://pp.itu.int/2026/en/#/fr" title="" style="font-size:1.0em; font-weight:normal;">Conférence de plénipotentiaires de l’UIT de 2026 (PP-26) </a><br><span style="font-size:1.0em; margin-top:-5px;"><p>Doha (Qatar), 9-27 novembre 2026 </p></span></li></ul></td>
+  </tr>
+</tbody></table>
+			</div><div class="ms-clear"></div></div>
+		</div><div class="ms-PartSpacingVertical"></div>
+	</div><div id="MSOZoneCell_WebPartWPQ4" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="37f5426b-483e-4906-a594-7c16ba77691e" haspers="false" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex " allowdelete="false" style=""><div class="ms-rtestate-field"> <div class="home-block-content" style="padding: 0px; margin-top: -25px;"> 
+   <a href="/en/events/Pages/Calendar-Events.aspx#/fr" target="_blank" class="more" style="margin-right: 10px;">Racoleur </a> ​​​ <br></div> </div><div class="ms-clear"></div></div>
+		</div>
+	</div>
+</div>  
+          	 
+                    
+            </div><!--/.home-block .home-block-blue-arrow .home-block-greybg .members-zone-->
+               
+         
+        </div><!--/.col-32-->
+    </div><!--/.row-->
+  
+	
+   
+<!-- *****  Div From X communications  ***************************************** -->       
+<!-- ********************************************** -->  
+                
+ 
+    
+<div style="display:none" id="hidZone"></div>
+
+<!-- Print Section // -->
+<!-- ITU template starts : language dependent -->
+    <div class="row follow">
+    	<div class="col-18">
+        	<div class="social">
+            	<ul class="clearfix">
+                	
+                	
+                	<!--	<li><em>Suivez-nous</em></li> Commented by Rajani Vepa on 28 Jan 2014 -->
+                    <li><a href="/en/Pages/social-media.aspx #/fr" style="background-image:none; text-indent:0px; width:100px;"><em>Suivez-nous </em></a></li>              	
+
+
+                     <li><a href="/twitter#/fr" class="twitter" target="_blank">Twitter </a></li>
+                    <li><a href="/facebook#/fr" class="facebook" target="_blank">Facebook </a></li>
+                    <li><a href="/youtube#/fr" class="youtube" target="_blank">Youtube </a></li>
+                    <li><a href="/flickr#/fr" class="flickr" target="_blank">Flicker </a></li>				
+					<li><a href="/linkedin#/fr" rel="publisher" class="linkedin" target="_blank">Linkedin </a></li>
+					<li><a href="/instagram#/fr" class="instagram" target="_blank">Instagram  </a></li>
+					<li><a href="/soundcloud#/fr" class="soundcloud" target="_blank">Soundcloud (en anglais) </a></li>					
+					<li><a href="/applepodcasts#/fr" class="applepodcasts" target="_blank">Podcasts </a></li>
+					<li><a href="/spotify#/fr" class="spotify" target="_blank">Spotify </a></li>
+					<li><a href="/spreaker#/fr" class="spreaker" target="_blank">Spreaker </a></li>						
+	               <li><a href="/tiktok#/fr" class="tiktok" target="_blank">Sur TikTok </a></li>
+	
+<!-- commented on 06 oct 2020- Rajani Vepa- added Tik Tok  -->	
+
+             </ul>
+            </div><!--/.social-->
+        </div><!--/.col-18-->
+        <div class="col-14">
+            
+<div class="col-14">
+        	<div class="secretary-gen">       	       	
+            		            	            	
+            	 <!--  Secretary General's Corner using Page Content Field title 17-->	
+          			          
+					<img alt="The Secretary-General's corner" src="/en/PublishingImages/home/footer-secretary-general.png"><a href="/en/osg/Pages/default.aspx#/fr"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;"><font style="vertical-align:inherit;">Le coin du Secrétaire général </font></font></font></font></font></font></font></font></font></font></font></font></a> ​ <br>
+					
+					 
+                
+            </div><!--/.secretary-gen-->
+            <div class="clear"></div>
+        </div><!--/.col-12-->
+
+        </div><!--/.col-14-->
+    </div><!--/.row-->
+    
+    <div class="row row-back-to-top">
+    	<div class="col-32 footer">
+    	<div class="col-8 col-first"><!--changed col-16 to value col-8 Rajani VEPA on 24 sep 2024 to add terms of use-->
+        	<p>© L’UIT <span id="copyright_year">2026 </span> Tous droits réservés </p>
+        </div><!--col-16-->
+        <div class="col-24 col-last"><!--changed col-16 to value col-24 Rajani VEPA on 24 sep 2024 to add terms of use-->
+        	<ul class="clearfix">
+            	 
+                <li><a href="/home/contact/index-fr.html#/fr">Nous contacter </a></li>
+                <li><a href="/en/about/Pages/terms-of-use.aspx#/fr">Conditions d’utilisation </a></li> <!--/ added by Rajani vepa on 30 sep 2024-->
+                <li><a href="/fr/about/Pages/privacy-notice.aspx#/fr">Déclaration de confidentialité </a></li> <!--/ added by Rajani vepa on 13 May 2019-->
+                <li><a href="/fr/Pages/accessibility.aspx#/fr">Accessibilité </a></li>
+                <li><a style="color: red; font-weight: bold;" href="/en/oversight-unit/Pages/report-misconduct.aspx#/fr">Signalez tout manquement </a></li>
+            </ul>
+        </div><!--col-16-->
+        <a href="#" class="back-to-top">Retour au début de la page </a>
+        </div><!--/.col-32-->
+    </div><!--/.row .footer-->
+    
+    </div><!--/.container-->
+    
+</div><!--/.wrapper-->
+</div><!--/#DeltaPlaceHolderMain-->
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e9c3a3c258dc7e3" async="async"></script>
+<!-- ITU template ends -->
+
+				</div>
+			</div>
+			<!-- ===== STARTER: Main Scrolling Body Ends Here ================================================================================= -->
+			
+			<!-- ===== STARTER: Needed for form stuff ========================================================================================= -->
+			
+				<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0x3414C66686586302D741370F514BC15A61E77BF6221148F7FA321DC899D4482CFD1E4A2FBC1C6B71AB43050F0C3C5E533F1F3CECA8AE66D24FACFCDB3D58FA92,18 Jan 2026 22:44:33 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+			
+		
+			<!-- ===== STARTER: Hidden Placeholders =========================================================================================== -->	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+<!-- ITU template starts : language INdependent -->
+<!-- own defined place holder, used in some old layouts  -->
+            
+<!-- ITU template ends -->
+
+		
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.SPThemeUtils && SPThemeUtils.ApplyCurrentTheme(true); IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{320e0d48-0c2c-4f7f-acdc-847fc83578ac}",itemId: 205,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002ffr\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = "ctl00_DeltaPlaceHolderMain";
+//]]>
+</script>
+</form>
+<!-- ITU template starts : language INdependent -->
+      
+
+	<form action="http://www.itu.int/net/itu_search/index.aspx" name="searchform">
+	  <input type="hidden" name="cx" value="001276825495132238663:nqzm45z846q">
+	  <input type="hidden" name="cof" value="FORID:9">
+	  <input type="hidden" name="ie" value="UTF-8">
+	  <input type="hidden" name="q">
+	</form>
+<script type="text/javascript">
+    //<![CDATA[
+    setCopyRightYear();
+    // Fix for the name.dll ActitveX issue.
+    function ProcessImn() { }
+    // 27.9.2013
+    $("a").removeClass("itu-navheader");
+    //]]>
+</script>
+
+ 
+
+<!-- ITU template ends -->
+	
+	
+	<!-- Created from Starter SP2013 Master Page originally by Randy Drisgill (http://blog.drisgill.com) - April 21, 2013 -->
+
+<!-- Rendered using cache profile:Public Internet (Purely Anonymous) at: 2026-01-18T23:44:33 --><div id="addtoany" style="position: static;"><div class="a2a_overlay" id="a2a_overlay" tabindex="0" aria-label="Close" data-a2a-localize="label,Close"></div><div id="a2a_modal" class="a2a_modal a2a_hide" role="dialog" tabindex="-1" aria-label=""><div class="a2a_modal_body a2a_menu a2a_hide" id="a2a_copy_link"><label for="a2a_copy_link_text" id="a2a_copy_link_icon" class="a2a_svg a2a_s_link a2a_logo_color"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><title>Copy link</title><path fill="#FFF" d="M7.591 21.177c0-.36.126-.665.377-.917l2.804-2.804a1.235 1.235 0 0 1 .913-.378c.377 0 .7.144.97.43-.026.028-.11.11-.255.25-.144.14-.24.236-.29.29a2.82 2.82 0 0 0-.2.256 1.056 1.056 0 0 0-.177.344 1.43 1.43 0 0 0-.046.37c0 .36.126.666.377.918a1.25 1.25 0 0 0 .918.377c.126.001.251-.015.373-.047.125-.037.242-.096.345-.175.09-.06.176-.127.256-.2.1-.094.196-.19.29-.29.14-.142.223-.23.25-.254.297.28.445.607.445.984 0 .36-.126.664-.377.916l-2.778 2.79a1.242 1.242 0 0 1-.917.364c-.36 0-.665-.118-.917-.35l-1.982-1.97a1.223 1.223 0 0 1-.378-.9l-.001-.004Zm9.477-9.504c0-.36.126-.665.377-.917l2.777-2.79a1.235 1.235 0 0 1 .913-.378c.35 0 .656.12.917.364l1.984 1.968c.254.252.38.553.38.903 0 .36-.126.665-.38.917l-2.802 2.804a1.238 1.238 0 0 1-.916.364c-.377 0-.7-.14-.97-.418.026-.027.11-.11.255-.25a7.5 7.5 0 0 0 .29-.29c.072-.08.139-.166.2-.255.08-.103.14-.22.176-.344.032-.12.048-.245.047-.37 0-.36-.126-.662-.377-.914a1.247 1.247 0 0 0-.917-.377c-.136 0-.26.015-.37.046-.114.03-.23.09-.346.175a3.868 3.868 0 0 0-.256.2c-.054.05-.15.148-.29.29-.14.146-.222.23-.25.258-.294-.278-.442-.606-.442-.983v-.003ZM5.003 21.177c0 1.078.382 1.99 1.146 2.736l1.982 1.968c.745.75 1.658 1.12 2.736 1.12 1.087 0 2.004-.38 2.75-1.143l2.777-2.79c.75-.747 1.12-1.66 1.12-2.737 0-1.106-.392-2.046-1.183-2.818l1.186-1.185c.774.79 1.708 1.186 2.805 1.186 1.078 0 1.995-.376 2.75-1.13l2.803-2.81c.751-.754 1.128-1.671 1.128-2.748 0-1.08-.382-1.993-1.146-2.738L23.875 6.12C23.13 5.372 22.218 5 21.139 5c-1.087 0-2.004.382-2.75 1.146l-2.777 2.79c-.75.747-1.12 1.66-1.12 2.737 0 1.105.392 2.045 1.183 2.817l-1.186 1.186c-.774-.79-1.708-1.186-2.805-1.186-1.078 0-1.995.377-2.75 1.132L6.13 18.426c-.754.755-1.13 1.672-1.13 2.75l.003.001Z"></path></svg></label><input id="a2a_copy_link_text" type="text" title="Copy link" readonly=""><div id="a2a_copy_link_copied">✓</div></div><div class="a2a_modal_body a2a_menu a2a_thanks a2a_hide" id="a2a_thanks" role="dialog" tabindex="0"><div class="a2a_localize" data-a2a-localize="inner,ThanksForSharing">Merci d'avoir partagé!</div></div></div><div class="a2a_menu a2a_full a2a_localize" id="a2apage_full" role="dialog" tabindex="-1" aria-label="Share" data-a2a-localize="title,Share" title="Partager"><div class="a2a_full_header"><div id="a2apage_find_container" class="a2a_menu_find_container"><label for="a2apage_find" id="a2apage_find_icon" class="a2a_svg a2a_s_find"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><title>Find any service</title><path fill="#CCC" d="M19.7 18.2l-4.5-4.5c.7-1.1 1.2-2.3 1.2-3.6 0-3.5-2.8-6.3-6.3-6.3s-6.3 2.8-6.3 6.3 2.8 6.3 6.3 6.3c1.4 0 2.6-.4 3.6-1.2l4.5 4.5c.6.6 1.3.7 1.7.2.5-.4.4-1.1-.2-1.7zm-9.6-3.6c-2.5 0-4.5-2.1-4.5-4.5 0-2.5 2.1-4.5 4.5-4.5 2.5 0 4.5 2.1 4.5 4.5s-2 4.5-4.5 4.5z"></path></svg></label><input id="a2apage_find" class="a2a_menu_find a2a_localize" type="text" autocomplete="off" title="Trouver instantanément un service à ajouter" data-a2a-localize="title,FindAnyServiceToAddTo"></div></div><div class="a2a_full_services" id="a2apage_full_services" role="presentation"></div><div class="a2a_full_footer"><a href="https://www.addtoany.com#/fr" title="Share Buttons" rel="noopener" target="_blank"><span class="a2a_svg a2a_s__default a2a_s_a2a a2a_logo_color"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#FFF"><path d="M14 7h4v18h-4z"></path><path d="M7 14h18v4H7z"></path></g></svg></span>AddToAny</a></div></div><div id="a2apage_dropdown" class="a2a_menu a2a_mini a2a_localize a2a_hide" tabindex="-1" aria-label="Partager" data-a2a-localize="label,Share"><div class="a2a_mini_services" id="a2apage_mini_services"></div><div id="a2apage_cols_container" class="a2a_cols_container"><div class="a2a_col1" id="a2apage_col1"></div><div id="a2apage_2_col1" class="a2a_hide"></div><div class="a2a_clear"></div></div><div class="a2apage_wide a2a_wide"><a href="#addtoany" id="a2apage_show_more_less" class="a2a_more a2a_localize" title="Tout voir" data-a2a-localize="title,ShowAll"><span class="a2a_svg a2a_s__default a2a_s_a2a a2a_logo_color"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#FFF"><path d="M14 7h4v18h-4z"></path><path d="M7 14h18v4H7z"></path></g></svg></span><span class="a2a_localize" data-a2a-localize="inner,More">Plus…</span></a></div></div><div style="height: 1px; width: 1px; position: absolute; z-index: 100000; top: 0px; visibility: hidden;"><iframe id="a2a_sm_ifr" title="AddToAny Utility Frame" aria-hidden="true" src="https://static.addtoany.com/menu/sm.25.html#type=core&amp;event=load" style="height: 1px; width: 1px; border: 0px; left: 0px; top: 0px; position: absolute; z-index: 100000; display: none;"></iframe></div></div><script src="https://static.addtoany.com/menu/locale/fr.js"></script><table cellspacing="0" cellpadding="0" role="presentation" class="gstl_50 gssb_c" style="width: 54px; display: none; top: 99px; left: 99px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table><iframe id="_hjSafeContext_98620307" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe id="_hjSafeContext_24422590" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><div class="_hj-widget-container _hj-widget-theme-light" id="survey_1053123"><div class="_hj-s3UIi__styles__globalStyles _hj-Pbej5__styles__resetStyles "><div lang="en" id="hotjar-survey-baae49d4-1236-4f31-8508-5578c3a1e8f7" dir="ltr" style="--hjFeedbackAccentColor: #0083b3; --hjFeedbackAccentHoverColor: #005e80; --hjFeedbackAccentActiveColor: #004b67; --hjFeedbackAccentTextColor: #FFF; --hjFeedbackDisabledAccentColor: #F1F2F6; --hjFeedbackDisabledAccentTextColor: rgba(0, 0, 0, 0.43); --hjFeedbackBorderColor: #E4E6EB; --hjFeedbackOptionButtonBackgroundColor: #E0E2E8; --hjFeedbackInputPlaceholderColor: #4d5f66; font-size: clamp(16px, 1rem, 32px) !important; --hjFeedbackPageTextColor: rgba(255, 255, 255, 0.94);"><div data-testid="survey-root"><div class="css-sfbnep"><div aria-hidden="true" class="css-u2agci"></div><div class="css-112xj8j"><button aria-label="Feedback - Show survey" id="hj-survey-toggle-1" class="css-12ht3bp"><div class="css-1xi4v5y"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" fill="none" viewBox="0 0 24 22" data-testid="icon-buddy"><path fill="#fcfefe" fill-rule="evenodd" d="M22.362.827C21.72.5 20.88.5 19.2.5H3.3C1.755.5.983.5.575.819A1.5 1.5 0 000 1.969c-.01.517.453 1.135 1.38 2.371l1.14 1.52c.178.237.267.356.33.487a1.5 1.5 0 01.122.365C3 6.855 3 7.003 3 7.3v9.4c0 1.68 0 2.52.327 3.162a3 3 0 001.311 1.311c.642.327 1.482.327 3.162.327h11.4c1.68 0 2.52 0 3.162-.327a3 3 0 001.311-1.311C24 19.22 24 18.38 24 16.7V5.3c0-1.68 0-2.52-.327-3.162a3 3 0 00-1.31-1.311zM9.277 11.937a1.125 1.125 0 00-1.948 1.126 7.123 7.123 0 006.171 3.562 7.123 7.123 0 006.171-3.562 1.125 1.125 0 10-1.947-1.126 4.872 4.872 0 01-4.224 2.438 4.873 4.873 0 01-4.223-2.438zM10.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM18 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z" clip-rule="evenodd"></path></svg></div><span class="css-1qk2dqd">Feedback</span></button><div role="dialog" aria-labelledby="hj-survey-lbl-1" aria-hidden="true"><div id="innerLayer"><div class="css-ed4xr9"><div class="css-desq4a"><button class="css-zzqb0h"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" data-testid="icon-collapse"><path d="M17.8059 9.87186L13.2207 16.2912C12.6225 17.1287 11.3778 17.1287 10.7795 16.2912L6.19431 9.87186C5.48516 8.87905 6.19485 7.5 7.41491 7.5L16.5853 7.5C17.8054 7.5 18.5151 8.87906 17.8059 9.87186Z" fill="#4d5f66"></path></svg></button></div><form inert="" class="css-dptyls"><div aria-labelledby="hj-survey-lbl-1"><div class="css-mioz4j"><h2 id="hj-survey-lbl-1" tabindex="-1" class="css-1wib42r">How would you rate your overall experience on our website?</h2><div class="css-5yh89e"><div role="radiogroup" aria-label="where 1 is Very poor and 5 is Excellent" class="css-cc85er"><label class="css-1izpnod"><input aria-describedby="hj-surveys-scale-option-label-0-52abac67-ced5-4e2a-89aa-049d0e479a14" type="radio" aria-label="1" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" class="css-13vcunm" value="1"><span aria-hidden="true" class="css-1vvh4ve">1</span></label><label class="css-1izpnod"><input aria-describedby="" type="radio" aria-label="2" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" class="css-13vcunm" value="2"><span aria-hidden="true" class="css-1vvh4ve">2</span></label><label class="css-1izpnod"><input aria-describedby="" type="radio" aria-label="3" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" class="css-13vcunm" value="3"><span aria-hidden="true" class="css-1vvh4ve">3</span></label><label class="css-1izpnod"><input aria-describedby="" type="radio" aria-label="4" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" class="css-13vcunm" value="4"><span aria-hidden="true" class="css-1vvh4ve">4</span></label><label class="css-1izpnod"><input aria-describedby="hj-surveys-scale-option-label-1-89ae9b32-a8fe-4608-bc2b-0585f81e416a" type="radio" aria-label="5" name="3ab8d6a8-84ed-4d95-8540-9d76f48ba012" class="css-13vcunm" value="5"><span aria-hidden="true" class="css-1vvh4ve">5</span></label></div><div aria-hidden="true" class="css-m6ndoo"><span id="hj-surveys-scale-option-label-0-52abac67-ced5-4e2a-89aa-049d0e479a14" title="Very poor" aria-label="Very poor" class="css-ksupk8">Very poor</span><span id="hj-surveys-scale-option-label-1-89ae9b32-a8fe-4608-bc2b-0585f81e416a" title="Excellent" aria-label="Excellent" class="css-ouk37a">Excellent</span></div></div></div><div class="css-rakzvv"><div class="css-36amt5"><button type="button" kind="primary" disabled="" size="s" class="css-7w2z7s">Next</button></div></div></div></form></div></div></div></div></div></div></div></div></div><iframe src="https://ep2.adtrafficquality.google/sodar/sodar2/237/runner.html" width="0" height="0" style="display: none;"></iframe></body></html>

@@ -1,180 +1,171 @@
-# Zource
+# Langages informatiques: Python, HTML, C++ et Quantum
 
-**International Telecommunications Union Resource Management System**
+Ce dépôt contient des exemples de code en HTML, Python et C++, ainsi qu'une démonstration d'intégration de ces trois langages.
 
-A complete and unique system for managing telecommunications resources, frequency allocations, and spectrum management in accordance with ITU standards.
+## 📁 Structure du projet
 
-## Overview
+```
+.
+├── html/                    # Exemples HTML
+│   └── index.html          # Page web interactive
+├── python/                  # Exemples Python
+│   └── calculator.py       # Calculatrice scientifique
+├── cpp/                     # Exemples C++
+│   └── math_operations.cpp # Opérations mathématiques
+├── integration/             # Intégration des 3 langages
+│   ├── app.py              # Serveur Flask (Python)
+│   ├── math_lib.cpp        # Bibliothèque de calculs (C++)
+│   └── templates/
+│       └── index.html      # Interface web (HTML)
+└── README.md
+```
 
-Zource is a comprehensive telecommunications resource management system designed to help manage and track frequency allocations, service types, and telecommunications resources across different countries and regions, following International Telecommunications Union (ITU) guidelines.
+## 🌐 HTML
 
-## Features
+Le fichier `html/index.html` démontre:
+- Structure HTML5 sémantique
+- CSS intégré avec design moderne
+- JavaScript interactif
+- Formulaires et tableaux
 
-- ✅ **Frequency Band Management**: Support for all ITU frequency bands (VLF, LF, MF, HF, VHF, UHF, SHF, EHF)
-- ✅ **Service Type Classification**: Manage different telecommunications services (Fixed, Mobile, Broadcasting, Satellite, etc.)
-- ✅ **Conflict Detection**: Automatic detection of frequency allocation conflicts
-- ✅ **Resource Tracking**: Complete allocation and deallocation history
-- ✅ **Multi-Country Support**: Manage resources across different countries with ISO country codes
-- ✅ **Import/Export**: JSON-based data persistence and exchange
-- ✅ **Comprehensive Reporting**: Generate detailed allocation reports
+**Pour visualiser:** Ouvrez `html/index.html` dans un navigateur web.
 
-## Installation
+## 🐍 Python
 
-### Prerequisites
-- Python 3.7 or higher
+Le fichier `python/calculator.py` démontre:
+- Classes et programmation orientée objet
+- Typage avec `typing`
+- Opérations mathématiques (math library)
+- Documentation avec docstrings
 
-### Setup
-
-1. Clone the repository:
+**Pour exécuter:**
 ```bash
-git clone https://github.com/Fondation-Yann-Lehau/Zource.git
-cd Zource
+python python/calculator.py
 ```
 
-2. Install dependencies:
+## ⚡ C++
+
+Le fichier `cpp/math_operations.cpp` démontre:
+- Classes et méthodes
+- Templates STL (vector, string)
+- Gestion d'exceptions
+- Algorithmes (tri à bulles)
+
+**Pour compiler et exécuter:**
 ```bash
-pip install -r requirements.txt
+g++ -o math_operations cpp/math_operations.cpp
+./math_operations
 ```
 
-## Usage
+## 🔗 Intégration HTML + Python + C++
 
-### Running the System
+Le dossier `integration/` contient une application web complète qui démontre comment les trois langages peuvent travailler ensemble:
 
-Run the main system with example data:
-```bash
-python3 zource.py
-```
+- **HTML/CSS/JavaScript**: Interface utilisateur moderne et responsive
+- **Python (Flask)**: Serveur web et API REST
+- **C++**: Bibliothèque de calculs haute performance
 
-### Basic Example
-
-```python
-from zource import ITUResourceManager, TelecomResource, FrequencyBand, ServiceType
-
-# Create resource manager
-manager = ITUResourceManager()
-
-# Create a new telecommunications resource
-resource = TelecomResource(
-    resource_id="FR-VHF-001",
-    frequency_band=FrequencyBand.VHF,
-    service_type=ServiceType.BROADCASTING,
-    country_code="FRA",
-    allocated_date="2026-01-18",
-    frequency_range=(88.0, 108.0),
-    description="FM Radio Broadcasting"
-)
-
-# Allocate the resource
-manager.allocate_resource(resource)
-
-# List all active resources
-for r in manager.list_resources():
-    print(f"{r.resource_id}: {r.service_type.value}")
-
-# Generate a report
-print(manager.generate_report())
-
-# Export to JSON
-manager.export_to_json("resources.json")
-```
-
-## Frequency Bands
-
-The system supports all ITU frequency band classifications:
-
-| Band | Name | Frequency Range |
-|------|------|----------------|
-| VLF | Very Low Frequency | 3-30 kHz |
-| LF | Low Frequency | 30-300 kHz |
-| MF | Medium Frequency | 300-3000 kHz |
-| HF | High Frequency | 3-30 MHz |
-| VHF | Very High Frequency | 30-300 MHz |
-| UHF | Ultra High Frequency | 300-3000 MHz |
-| SHF | Super High Frequency | 3-30 GHz |
-| EHF | Extremely High Frequency | 30-300 GHz |
-
-## Service Types
-
-Supported ITU service type classifications:
-
-- **Fixed Service**: Point-to-point communications
-- **Mobile Service**: Mobile communications
-- **Broadcasting Service**: Radio and TV broadcasting
-- **Satellite Service**: Satellite communications
-- **Radio Astronomy Service**: Radio astronomy observations
-- **Maritime Service**: Maritime communications
-- **Aeronautical Service**: Aviation communications
-- **Amateur Radio Service**: Amateur radio operations
-
-## Testing
-
-Run the test suite:
-```bash
-python3 -m pytest test_zource.py -v
-```
-
-Run with coverage:
-```bash
-python3 -m pytest test_zource.py --cov=zource --cov-report=html
-```
-
-## API Reference
-
-### ITUResourceManager
-
-Main class for managing telecommunications resources.
-
-**Methods:**
-- `allocate_resource(resource: TelecomResource) -> bool`: Allocate a new resource
-- `deallocate_resource(resource_id: str) -> bool`: Deallocate a resource
-- `get_resource(resource_id: str) -> Optional[TelecomResource]`: Retrieve a resource by ID
-- `list_resources(service_type, country_code, active_only) -> List[TelecomResource]`: List resources with filters
-- `export_to_json(filename: str)`: Export all resources to JSON
-- `import_from_json(filename: str)`: Import resources from JSON
-- `generate_report() -> str`: Generate comprehensive allocation report
-
-### TelecomResource
-
-Dataclass representing a telecommunications resource allocation.
-
-**Attributes:**
-- `resource_id`: Unique identifier for the resource
-- `frequency_band`: ITU frequency band classification
-- `service_type`: Type of telecommunications service
-- `country_code`: ISO country code
-- `allocated_date`: Date of allocation
-- `frequency_range`: Tuple of (start_freq, end_freq) in MHz
-- `description`: Human-readable description
-- `is_active`: Whether the resource is currently active
-
-## Project Structure
+### Architecture
 
 ```
-Zource/
-├── zource.py           # Main system implementation
-├── test_zource.py      # Comprehensive test suite
-├── requirements.txt    # Python dependencies
-├── package.json        # Project metadata
-├── README.md          # This file
-└── .gitignore         # Git ignore rules
+┌─────────────────────────────────────────────────────────┐
+│  Navigateur Web                                          │
+│  ┌─────────────────────────────────────────────────────┐│
+│  │  HTML/CSS/JavaScript (Frontend)                      ││
+│  │  - Interface utilisateur                             ││
+│  │  - Formulaires interactifs                           ││
+│  │  - Appels API REST                                   ││
+│  └────────────────────────┬────────────────────────────┘│
+└───────────────────────────┼─────────────────────────────┘
+                            │ HTTP/JSON
+┌───────────────────────────▼─────────────────────────────┐
+│  Serveur Python (Flask)                                  │
+│  ┌─────────────────────────────────────────────────────┐│
+│  │  app.py                                              ││
+│  │  - Routes HTTP                                       ││
+│  │  - Logique métier                                    ││
+│  │  - Interface ctypes                                  ││
+│  └────────────────────────┬────────────────────────────┘│
+└───────────────────────────┼─────────────────────────────┘
+                            │ ctypes (FFI)
+┌───────────────────────────▼─────────────────────────────┐
+│  Bibliothèque C++ (libmath.so)                          │
+│  ┌─────────────────────────────────────────────────────┐│
+│  │  math_lib.cpp                                        ││
+│  │  - Calculs haute performance                         ││
+│  │  - Opérations mathématiques                          ││
+│  │  - Fonctions sur les nombres                         ││
+│  └─────────────────────────────────────────────────────┘│
+└─────────────────────────────────────────────────────────┘
 ```
 
-## Contributing
+### Installation et exécution
 
-Contributions are welcome! Please ensure:
-1. All tests pass
-2. Code follows PEP 8 style guidelines
-3. New features include appropriate tests
-4. Documentation is updated
+1. **Compiler la bibliothèque C++:**
+   ```bash
+   cd integration
+   g++ -shared -fPIC -o libmath.so math_lib.cpp
+   ```
 
-## License
+2. **Installer les dépendances Python:**
+   ```bash
+   pip install flask
+   ```
 
-MIT License - See LICENSE file for details
+3. **Lancer l'application:**
+   ```bash
+   python integration/app.py
+   ```
 
-## Author
+4. **Ouvrir dans le navigateur:**
+   ```
+   http://localhost:5000
+   ```
 
-Fondation Yann Lehau
+> **Note:** Si la bibliothèque C++ n'est pas compilée, l'application utilisera automatiquement une implémentation Python de secours.
 
-## Acknowledgments
+## 📝 Fonctionnalités
 
-This project follows International Telecommunications Union (ITU) standards and guidelines for frequency allocation and spectrum management.
+### Opérations de base
+- Addition
+- Soustraction
+- Multiplication
+- Division
+
+### Opérations avancées
+- Puissance
+- Racine carrée
+- PGCD (Plus Grand Commun Diviseur)
+- PPCM (Plus Petit Commun Multiple)
+
+### Fonctions sur les nombres
+- Factorielle
+- Suite de Fibonacci
+- Test de primalité
+
+## 🎯 Objectifs pédagogiques
+
+Ce projet vise à illustrer:
+
+1. **Les différences entre les langages:**
+   - HTML: langage de balisage pour structurer le contenu
+   - Python: langage interprété, facile à lire
+   - C++: langage compilé, haute performance
+
+2. **L'interopérabilité:**
+   - Comment les langages peuvent communiquer
+   - API REST pour la communication web
+   - ctypes pour appeler du code C++ depuis Python
+
+3. **Les bonnes pratiques:**
+   - Documentation du code
+   - Gestion des erreurs
+   - Architecture modulaire
+
+## 📜 Licence
+
+Ce projet est à but éducatif.
+
+---
+
+*Fondation Yann LEHAU et ADO - Langages informatiques*

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Démonstration HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .code-example {
+            background: #282c34;
+            color: #abb2bf;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+        }
+        .highlight {
+            color: #e06c75;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 10px 0;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #result {
+            margin-top: 15px;
+            padding: 10px;
+            background: #e8f5e9;
+            border-radius: 5px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Exemple de code HTML</h1>
+        <p>Bienvenue dans cette démonstration de code HTML avec CSS et JavaScript intégrés.</p>
+        
+        <h2>Formulaire interactif</h2>
+        <form id="demoForm">
+            <label for="name">Votre nom:</label><br>
+            <input type="text" id="name" name="name" placeholder="Entrez votre nom" style="padding: 8px; margin: 10px 0; width: 200px;"><br>
+            
+            <label for="language">Langage préféré:</label><br>
+            <select id="language" name="language" style="padding: 8px; margin: 10px 0; width: 220px;">
+                <option value="html">HTML</option>
+                <option value="python">Python</option>
+                <option value="cpp">C++</option>
+            </select><br>
+            
+            <button type="button" onclick="showResult()">Soumettre</button>
+        </form>
+        
+        <div id="result"></div>
+        
+        <h2>Exemple de tableau</h2>
+        <table border="1" style="border-collapse: collapse; width: 100%;">
+            <tr style="background: #4CAF50; color: white;">
+                <th style="padding: 10px;">Langage</th>
+                <th style="padding: 10px;">Type</th>
+                <th style="padding: 10px;">Utilisation</th>
+            </tr>
+            <tr>
+                <td style="padding: 10px;">HTML</td>
+                <td style="padding: 10px;">Balisage</td>
+                <td style="padding: 10px;">Structure web</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px;">Python</td>
+                <td style="padding: 10px;">Interprété</td>
+                <td style="padding: 10px;">Scripts, IA, Web</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px;">C++</td>
+                <td style="padding: 10px;">Compilé</td>
+                <td style="padding: 10px;">Systèmes, Jeux</td>
+            </tr>
+        </table>
+    </div>
+
+    <script>
+        function showResult() {
+            const name = document.getElementById('name').value || 'Anonyme';
+            const language = document.getElementById('language').value;
+            const languageNames = {
+                'html': 'HTML',
+                'python': 'Python',
+                'cpp': 'C++'
+            };
+            
+            const resultDiv = document.getElementById('result');
+            resultDiv.style.display = 'block';
+            resultDiv.innerHTML = `Bonjour <strong>${name}</strong>! Vous avez choisi <strong>${languageNames[language]}</strong> comme langage préféré.`;
+        }
+    </script>
+</body>
+</html>
