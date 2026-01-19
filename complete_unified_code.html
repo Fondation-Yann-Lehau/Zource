@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<!-- 
+    CODE UNIQUE ET COMPLET - UNION INTERNATIONALE DES TÉLÉCOMMUNICATIONS
+    Ce fichier rassemble toutes les stratégies langagières HTML
+    Source: international telecommunications union.txt
+-->
+<html lang="fr" dir="ltr">
+<head>
+    <!-- STRATÉGIE 2: Encodage de caractères UTF-8 -->
+    <meta charset="UTF-8">
+    
+    <!-- STRATÉGIE 5: Métadonnées multilingues -->
+    <meta name="language" content="French">
+    <meta http-equiv="content-language" content="fr">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- STRATÉGIE 7: Accessibilité linguistique - liens alternatifs -->
+    <link rel="alternate" hreflang="en" href="/en/index.html">
+    <link rel="alternate" hreflang="es" href="/es/index.html">
+    <link rel="alternate" hreflang="de" href="/de/index.html">
+    <link rel="alternate" hreflang="ar" href="/ar/index.html">
+    <link rel="alternate" hreflang="zh" href="/zh/index.html">
+    <link rel="alternate" hreflang="x-default" href="/en/index.html">
+    
+    <title>Zource - International Telecommunications Union - Stratégies Langagières HTML</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #0066cc;
+            border-bottom: 3px solid #0066cc;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #0088ee;
+            margin-top: 30px;
+        }
+        .strategy {
+            background-color: #f5f5f5;
+            padding: 15px;
+            margin: 15px 0;
+            border-left: 4px solid #0066cc;
+            border-radius: 4px;
+        }
+        .example {
+            background-color: #fff;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+        }
+        .code {
+            background-color: #272822;
+            color: #f8f8f2;
+            padding: 10px;
+            border-radius: 3px;
+            font-family: monospace;
+            overflow-x: auto;
+        }
+        .lang-nav {
+            background-color: #0066cc;
+            padding: 10px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .lang-nav a {
+            color: white;
+            text-decoration: none;
+            padding: 5px 10px;
+            margin: 0 5px;
+            display: inline-block;
+        }
+        .lang-nav a:hover {
+            background-color: #0088ee;
+            border-radius: 3px;
+        }
+        .bidi-example {
+            padding: 10px;
+            border: 2px dashed #0066cc;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- STRATÉGIE 1: Déclaration de langue principale sur <html> -->
+    <header>
+        <h1 translate="no">Zource - International Telecommunications Union</h1>
+        <p translate="yes">Guide Complet des Stratégies Langagières HTML</p>
+    </header>
+
+    <!-- STRATÉGIE 7: Navigation multilingue avec hreflang -->
+    <nav class="lang-nav" role="navigation" aria-label="Sélection de langue">
+        <strong>Langues disponibles:</strong>
+        <a href="/fr/index.html" hreflang="fr" lang="fr">Français</a>
+        <a href="/en/index.html" hreflang="en" lang="en">English</a>
+        <a href="/es/index.html" hreflang="es" lang="es">Español</a>
+        <a href="/de/index.html" hreflang="de" lang="de">Deutsch</a>
+        <a href="/ar/index.html" hreflang="ar" lang="ar">العربية</a>
+        <a href="/zh/index.html" hreflang="zh" lang="zh">中文</a>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p translate="yes">
+                Ce document démontre l'application complète et unifiée de toutes les stratégies 
+                langagières HTML recommandées par l'<span translate="no">International Telecommunications Union</span> 
+                pour créer des pages web internationalement accessibles.
+            </p>
+        </section>
+
+        <!-- STRATÉGIE 1: Déclaration de langue -->
+        <section class="strategy">
+            <h2>Stratégie 1: Déclaration de Langue (attribut lang)</h2>
+            <p>L'attribut <code>lang</code> est défini sur l'élément <code>&lt;html&gt;</code> pour déclarer la langue principale du document.</p>
+            <div class="code">
+                &lt;html lang="fr" dir="ltr"&gt;
+            </div>
+            <p>Codes ISO 639-1 pour différentes langues:</p>
+            <ul>
+                <li>fr - Français</li>
+                <li>en - Anglais</li>
+                <li>es - Espagnol</li>
+                <li>de - Allemand</li>
+                <li>ar - Arabe</li>
+                <li>zh - Chinois</li>
+            </ul>
+        </section>
+
+        <!-- STRATÉGIE 2: Encodage UTF-8 -->
+        <section class="strategy">
+            <h2>Stratégie 2: Encodage de Caractères (UTF-8)</h2>
+            <p>UTF-8 permet l'affichage correct de tous les caractères internationaux:</p>
+            <div class="example">
+                <p><strong>Français:</strong> àéèêëçùûî</p>
+                <p><strong>Espagnol:</strong> ñáéíóú¿¡</p>
+                <p><strong>Allemand:</strong> äöüßÄÖÜ</p>
+                <p><strong>Scandinave:</strong> åæø</p>
+                <p><strong>Turc:</strong> İıĞğŞş</p>
+                <p><strong>Russe:</strong> Привет мир</p>
+                <p><strong>Grec:</strong> Γεια σου κόσμε</p>
+                <p><strong>Chinois:</strong> 你好世界</p>
+                <p><strong>Japonais:</strong> こんにちは世界</p>
+                <p><strong>Arabe:</strong> مرحبا بالعالم</p>
+                <p><strong>Hébreu:</strong> שלום עולם</p>
+                <p><strong>Hindi:</strong> नमस्ते दुनिया</p>
+                <p><strong>Coréen:</strong> 안녕하세요 세계</p>
+                <p><strong>Thaï:</strong> สวัสดีชาวโลก</p>
+            </div>
+            <div class="code">
+                &lt;meta charset="UTF-8"&gt;
+            </div>
+        </section>
+
+        <!-- STRATÉGIE 3: Direction du texte -->
+        <section class="strategy">
+            <h2>Stratégie 3: Direction du Texte (attribut dir)</h2>
+            
+            <h3>Texte gauche-à-droite (LTR):</h3>
+            <div class="example">
+                <p dir="ltr" lang="fr">Texte français de gauche à droite.</p>
+                <p dir="ltr" lang="en">English text from left to right.</p>
+            </div>
+            
+            <h3>Texte droite-à-gauche (RTL):</h3>
+            <div class="example">
+                <p dir="rtl" lang="ar">هذا النص العربي يظهر من اليمين إلى اليسار</p>
+                <p dir="rtl" lang="he">טקסט עברי מימין לשמאל</p>
+            </div>
+            
+            <h3>Détection automatique:</h3>
+            <div class="example">
+                <p dir="auto">Mixed content with العربية and English</p>
+            </div>
+            
+            <div class="code">
+                &lt;p dir="ltr"&gt;Left to right&lt;/p&gt;<br>
+                &lt;p dir="rtl"&gt;Right to left&lt;/p&gt;<br>
+                &lt;p dir="auto"&gt;Automatic&lt;/p&gt;
+            </div>
+        </section>
+
+        <!-- STRATÉGIE 4: Balises multilingues -->
+        <section class="strategy">
+            <h2>Stratégie 4: Balises de Langue Multiples</h2>
+            <p>Utilisez l'attribut <code>lang</code> sur des éléments spécifiques pour marquer du contenu dans différentes langues:</p>
+            
+            <div class="example">
+                <h3>Salutations en différentes langues:</h3>
+                <ul>
+                    <li><span lang="en">Hello</span> (English)</li>
+                    <li><span lang="fr">Bonjour</span> (Français)</li>
+                    <li><span lang="es">Hola</span> (Español)</li>
+                    <li><span lang="de">Guten Tag</span> (Deutsch)</li>
+                    <li><span lang="it">Ciao</span> (Italiano)</li>
+                    <li><span lang="pt">Olá</span> (Português)</li>
+                    <li><span lang="nl">Hallo</span> (Nederlands)</li>
+                    <li><span lang="ru">Привет</span> (Русский)</li>
+                    <li><span lang="zh">你好</span> (中文)</li>
+                    <li><span lang="ja">こんにちは</span> (日本語)</li>
+                    <li><span lang="ko">안녕하세요</span> (한국어)</li>
+                    <li><span lang="ar">مرحبا</span> (العربية)</li>
+                    <li><span lang="he">שלום</span> (עברית)</li>
+                    <li><span lang="hi">नमस्ते</span> (हिन्दी)</li>
+                    <li><span lang="th">สวัสดี</span> (ไทย)</li>
+                    <li><span lang="vi">Xin chào</span> (Tiếng Việt)</li>
+                </ul>
+            </div>
+            
+            <div class="code">
+                &lt;span lang="en"&gt;Hello&lt;/span&gt;<br>
+                &lt;span lang="ar"&gt;مرحبا&lt;/span&gt;
+            </div>
+        </section>
+
+        <!-- STRATÉGIE 5: Métadonnées multilingues -->
+        <section class="strategy">
+            <h2>Stratégie 5: Métadonnées Multilingues</h2>
+            <p>Les balises meta suivantes sont utilisées dans ce document:</p>
+            <div class="code">
+                &lt;meta name="language" content="French"&gt;<br>
+                &lt;meta http-equiv="content-language" content="fr"&gt;
+            </div>
+            <p>Ces métadonnées aident:</p>
+            <ul>
+                <li>Les moteurs de recherche à indexer correctement le contenu</li>
+                <li>Les navigateurs à appliquer les bonnes règles linguistiques</li>
+                <li>Les outils de traduction à identifier la langue source</li>
+            </ul>
+        </section>
+
+        <!-- STRATÉGIE 6: Attribut translate -->
+        <section class="strategy">
+            <h2>Stratégie 6: Attributs Translate</h2>
+            <p translate="yes">Ce paragraphe peut être traduit automatiquement.</p>
+            
+            <p>Éléments avec <code>translate="no"</code>:</p>
+            <ul>
+                <li>Nom d'organisation: <span translate="no">International Telecommunications Union</span></li>
+                <li>Nom de produit: <span translate="no">Zource</span></li>
+                <li>Nom de personne: <span translate="no">Jean Dupont</span></li>
+                <li>Code informatique: <code translate="no">console.log("Hello World");</code></li>
+                <li>Nom de marque: <span translate="no">GitHub</span></li>
+            </ul>
+            
+            <div class="code">
+                &lt;p translate="yes"&gt;Traduction autorisée&lt;/p&gt;<br>
+                &lt;span translate="no"&gt;Pas de traduction&lt;/span&gt;
+            </div>
+        </section>
+
+        <!-- STRATÉGIE 7: Accessibilité linguistique -->
+        <section class="strategy">
+            <h2>Stratégie 7: Accessibilité Linguistique (hreflang)</h2>
+            <p>L'attribut <code>hreflang</code> indique les versions alternatives du contenu:</p>
+            
+            <h3>Dans le &lt;head&gt;:</h3>
+            <div class="code">
+                &lt;link rel="alternate" hreflang="en" href="/en/index.html"&gt;<br>
+                &lt;link rel="alternate" hreflang="es" href="/es/index.html"&gt;<br>
+                &lt;link rel="alternate" hreflang="x-default" href="/en/index.html"&gt;
+            </div>
+            
+            <h3>Dans les liens:</h3>
+            <div class="example">
+                <p>Versions disponibles:</p>
+                <ul>
+                    <li><a href="/fr/page.html" hreflang="fr" lang="fr">Version française</a></li>
+                    <li><a href="/en/page.html" hreflang="en" lang="en">English version</a></li>
+                    <li><a href="/es/page.html" hreflang="es" lang="es">Versión española</a></li>
+                    <li><a href="/de/page.html" hreflang="de" lang="de">Deutsche Version</a></li>
+                </ul>
+            </div>
+            
+            <p>Avantages pour le SEO:</p>
+            <ul>
+                <li>Meilleur classement dans les résultats de recherche locaux</li>
+                <li>Évite le contenu dupliqué</li>
+                <li>Améliore l'expérience utilisateur internationale</li>
+            </ul>
+        </section>
+
+        <!-- STRATÉGIE 8: Texte bidirectionnel -->
+        <section class="strategy">
+            <h2>Stratégie 8: BDI et BDO pour Texte Bidirectionnel</h2>
+            
+            <h3>Isolation bidirectionnelle avec &lt;bdi&gt;:</h3>
+            <p>Utile pour afficher des noms d'utilisateur ou des données qui peuvent être dans différentes directions:</p>
+            <div class="bidi-example">
+                <p>Utilisateur 1: <bdi>مستخدم123</bdi> (arabe)</p>
+                <p>Utilisateur 2: <bdi>User456</bdi> (latin)</p>
+                <p>Utilisateur 3: <bdi>משתמש789</bdi> (hébreu)</p>
+            </div>
+            
+            <h3>Override de direction avec &lt;bdo&gt;:</h3>
+            <p>Force une direction spécifique:</p>
+            <div class="bidi-example">
+                <p>Texte normal: ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+                <p>Texte inversé (RTL): <bdo dir="rtl">ABCDEFGHIJKLMNOPQRSTUVWXYZ</bdo></p>
+            </div>
+            
+            <h3>Contenu mixte LTR/RTL:</h3>
+            <div class="bidi-example">
+                <p dir="ltr">English text with embedded <span lang="ar" dir="rtl">نص عربي مضمن</span> in the middle.</p>
+                <p dir="rtl" lang="ar">نص عربي مع <span lang="en" dir="ltr">embedded English text</span> في الوسط.</p>
+            </div>
+            
+            <div class="code">
+                &lt;bdi&gt;مستخدم&lt;/bdi&gt; - Isolation<br>
+                &lt;bdo dir="rtl"&gt;TEXT&lt;/bdo&gt; - Override
+            </div>
+        </section>
+
+        <!-- Section de démonstration complète -->
+        <section class="strategy">
+            <h2>Démonstration Complète: Document Multilingue</h2>
+            <p>Exemple combinant toutes les stratégies:</p>
+            
+            <div class="example">
+                <article lang="fr">
+                    <h3 translate="yes">Rapport Annuel 2024</h3>
+                    <p translate="yes">
+                        L'<span translate="no">International Telecommunications Union</span> présente 
+                        son rapport annuel pour l'année 2024.
+                    </p>
+                    
+                    <h4>Résumé Multilingue:</h4>
+                    <blockquote lang="en" dir="ltr">
+                        <p>The ITU continues to promote global telecommunications standards.</p>
+                    </blockquote>
+                    
+                    <blockquote lang="ar" dir="rtl">
+                        <p>الاتحاد الدولي للاتصالات يواصل تعزيز المعايير العالمية للاتصالات</p>
+                    </blockquote>
+                    
+                    <blockquote lang="zh" dir="ltr">
+                        <p>国际电信联盟继续推动全球电信标准</p>
+                    </blockquote>
+                    
+                    <h4>Données Statistiques:</h4>
+                    <p>Pays participants (exemples avec noms locaux):</p>
+                    <ul>
+                        <li><span lang="fr">France</span></li>
+                        <li><span lang="en">United States</span></li>
+                        <li><span lang="es">España</span></li>
+                        <li><span lang="de">Deutschland</span></li>
+                        <li><span lang="ja">日本</span></li>
+                        <li><span lang="zh">中国</span></li>
+                        <li><span lang="ar">المملكة العربية السعودية</span></li>
+                        <li><span lang="ru">Россия</span></li>
+                    </ul>
+                    
+                    <p>
+                        Pour plus d'informations, consultez les versions alternatives:
+                        <a href="/en/report.html" hreflang="en" lang="en">English version</a> |
+                        <a href="/es/report.html" hreflang="es" lang="es">Versión española</a>
+                    </p>
+                </article>
+            </div>
+        </section>
+
+        <!-- Bonnes pratiques -->
+        <section class="strategy">
+            <h2>Bonnes Pratiques - Résumé</h2>
+            <ol>
+                <li><strong>Toujours déclarer</strong> l'attribut <code>lang</code> sur <code>&lt;html&gt;</code></li>
+                <li><strong>Utiliser UTF-8</strong> comme encodage de caractères</li>
+                <li><strong>Spécifier la direction</strong> du texte (dir="ltr" ou dir="rtl") si nécessaire</li>
+                <li><strong>Marquer les changements</strong> de langue avec <code>lang</code> sur les éléments</li>
+                <li><strong>Ajouter des métadonnées</strong> linguistiques pour le SEO</li>
+                <li><strong>Contrôler la traduction</strong> avec l'attribut <code>translate</code></li>
+                <li><strong>Déclarer les alternatives</strong> linguistiques avec <code>hreflang</code></li>
+                <li><strong>Gérer le texte bidirectionnel</strong> avec <code>&lt;bdi&gt;</code> et <code>&lt;bdo&gt;</code></li>
+            </ol>
+        </section>
+
+        <!-- Tableau récapitulatif -->
+        <section>
+            <h2>Tableau Récapitulatif des Stratégies</h2>
+            <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+                <thead style="background-color: #0066cc; color: white;">
+                    <tr>
+                        <th style="padding: 10px; border: 1px solid #ddd;">Stratégie</th>
+                        <th style="padding: 10px; border: 1px solid #ddd;">Élément/Attribut</th>
+                        <th style="padding: 10px; border: 1px solid #ddd;">Usage Principal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="padding: 10px; border: 1px solid #ddd;">1. Déclaration langue</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><code>lang</code></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">Identifier la langue du contenu</td>
+                    </tr>
+                    <tr style="background-color: #f9f9f9;">
+                        <td style="padding: 10px; border: 1px solid #ddd;">2. Encodage caractères</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><code>&lt;meta charset="UTF-8"&gt;</code></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">Support caractères internationaux</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px; border: 1px solid #ddd;">3. Direction texte</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><code>dir</code></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">Contrôler sens d'écriture (LTR/RTL)</td>
+                    </tr>
+                    <tr style="background-color: #f9f9f9;">
+                        <td style="padding: 10px; border: 1px solid #ddd;">4. Balises multilingues</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><code>&lt;span lang="..."&gt;</code></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">Marquer contenu multilingue</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px; border: 1px solid #ddd;">5. Métadonnées</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><code>&lt;meta name="language"&gt;</code></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">SEO et indexation</td>
+                    </tr>
+                    <tr style="background-color: #f9f9f9;">
+                        <td style="padding: 10px; border: 1px solid #ddd;">6. Contrôle traduction</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><code>translate</code></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">Autoriser/bloquer traduction auto</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px; border: 1px solid #ddd;">7. Versions alternatives</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><code>hreflang</code></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">SEO international et navigation</td>
+                    </tr>
+                    <tr style="background-color: #f9f9f9;">
+                        <td style="padding: 10px; border: 1px solid #ddd;">8. Texte bidirectionnel</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;"><code>&lt;bdi&gt;</code>, <code>&lt;bdo&gt;</code></td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">Gérer contenu mixte LTR/RTL</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer style="margin-top: 50px; padding-top: 20px; border-top: 2px solid #0066cc;">
+        <p translate="yes">
+            <strong>Zource - <span translate="no">International Telecommunications Union</span></strong>
+        </p>
+        <p translate="yes">
+            Ce document démontre l'implémentation complète et unifiée de toutes les stratégies 
+            langagières HTML pour l'accessibilité internationale.
+        </p>
+        <p>
+            <small translate="yes">
+                Toutes les stratégies sont basées sur les recommandations du fichier 
+                <span translate="no">"international telecommunications union.txt"</span>
+            </small>
+        </p>
+    </footer>
+</body>
+</html>

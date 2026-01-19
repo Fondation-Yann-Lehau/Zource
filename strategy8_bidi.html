@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!-- Stratégie 8: BDI et BDO pour texte bidirectionnel -->
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Stratégie 8 - Texte bidirectionnel</title>
+    <style>
+        .example { margin: 1em 0; padding: 0.5em; border: 1px solid #ccc; }
+    </style>
+</head>
+<body>
+    <h1>Texte Bidirectionnel</h1>
+    
+    <h2>Isolation bidirectionnelle avec &lt;bdi&gt;:</h2>
+    <div class="example">
+        <p>Utilisateur: <bdi>مستخدم123</bdi> (texte arabe isolé)</p>
+        <p>Utilisateur: <bdi>User456</bdi> (texte latin isolé)</p>
+    </div>
+    
+    <h2>Override de direction avec &lt;bdo&gt;:</h2>
+    <div class="example">
+        <p>Texte normal: HELLO WORLD</p>
+        <p>Texte inversé: <bdo dir="rtl">HELLO WORLD</bdo></p>
+    </div>
+    
+    <h2>Contenu mixte:</h2>
+    <div class="example">
+        <p dir="ltr">English text with <span lang="ar" dir="rtl">نص عربي</span> embedded</p>
+    </div>
+</body>
+</html>
