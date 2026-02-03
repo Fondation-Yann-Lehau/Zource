@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculatrice Intégrée - HTML + Python + C++</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        .badge {
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            margin-top: 10px;
+        }
+        .badge-cpp {
+            background: #00d4ff;
+            color: #003;
+        }
+        .badge-python {
+            background: #ffd43b;
+            color: #333;
+        }
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        .card h2 {
+            color: #333;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .card h2 .icon {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 14px;
+        }
+        .icon-basic { background: #4CAF50; }
+        .icon-advanced { background: #2196F3; }
+        .icon-number { background: #FF9800; }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #555;
+            font-weight: 500;
+        }
+        input[type="number"], select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        input[type="number"]:focus, select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .input-row {
+            display: flex;
+            gap: 10px;
+        }
+        .input-row .form-group {
+            flex: 1;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        button:active {
+            transform: translateY(0);
+        }
+        .result {
+            margin-top: 15px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 1.2rem;
+            color: #333;
+            min-height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .result.success {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+        .result.error {
+            background: #ffebee;
+            color: #c62828;
+        }
+        footer {
+            text-align: center;
+            color: white;
+            margin-top: 30px;
+            padding: 20px;
+            opacity: 0.9;
+        }
+        .tech-stack {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 15px;
+        }
+        .tech {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 15px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 20px;
+        }
+        .tech-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+        }
+        .dot-html { background: #e44d26; }
+        .dot-python { background: #3776ab; }
+        .dot-cpp { background: #00599c; }
+        
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.8rem; }
+            .input-row { flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🧮 Calculatrice Intégrée</h1>
+            <p>Démonstration de l'intégration HTML, Python et C++</p>
+            {% if using_cpp %}
+            <span class="badge badge-cpp">🚀 Backend: C++</span>
+            {% else %}
+            <span class="badge badge-python">🐍 Backend: Python</span>
+            {% endif %}
+        </header>
+
+        <div class="cards">
+            <!-- Opérations de base -->
+            <div class="card">
+                <h2><span class="icon icon-basic">➕</span> Opérations de base</h2>
+                <div class="input-row">
+                    <div class="form-group">
+                        <label for="basic-a">Nombre A</label>
+                        <input type="number" id="basic-a" value="10" step="any">
+                    </div>
+                    <div class="form-group">
+                        <label for="basic-b">Nombre B</label>
+                        <input type="number" id="basic-b" value="5" step="any">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="basic-op">Opération</label>
+                    <select id="basic-op">
+                        <option value="add">Addition (+)</option>
+                        <option value="subtract">Soustraction (-)</option>
+                        <option value="multiply">Multiplication (×)</option>
+                        <option value="divide">Division (÷)</option>
+                    </select>
+                </div>
+                <button onclick="calculateBasic()">Calculer</button>
+                <div class="result" id="basic-result">Résultat</div>
+            </div>
+
+            <!-- Opérations avancées -->
+            <div class="card">
+                <h2><span class="icon icon-advanced">📐</span> Opérations avancées</h2>
+                <div class="form-group">
+                    <label for="adv-op">Opération</label>
+                    <select id="adv-op" onchange="toggleAdvancedInputs()">
+                        <option value="power">Puissance (x^n)</option>
+                        <option value="sqrt">Racine carrée (√x)</option>
+                        <option value="gcd">PGCD</option>
+                        <option value="lcm">PPCM</option>
+                    </select>
+                </div>
+                <div class="input-row" id="adv-two-inputs">
+                    <div class="form-group">
+                        <label for="adv-a" id="adv-a-label">Base</label>
+                        <input type="number" id="adv-a" value="2" step="any">
+                    </div>
+                    <div class="form-group" id="adv-b-group">
+                        <label for="adv-b" id="adv-b-label">Exposant</label>
+                        <input type="number" id="adv-b" value="8" step="any">
+                    </div>
+                </div>
+                <button onclick="calculateAdvanced()">Calculer</button>
+                <div class="result" id="adv-result">Résultat</div>
+            </div>
+
+            <!-- Fonctions sur les nombres -->
+            <div class="card">
+                <h2><span class="icon icon-number">#</span> Fonctions sur les nombres</h2>
+                <div class="form-group">
+                    <label for="num-n">Nombre entier</label>
+                    <input type="number" id="num-n" value="10" step="1">
+                </div>
+                <div class="form-group">
+                    <label for="num-op">Fonction</label>
+                    <select id="num-op">
+                        <option value="factorial">Factorielle (n!)</option>
+                        <option value="fibonacci">Fibonacci (Fn)</option>
+                        <option value="is_prime">Est premier?</option>
+                    </select>
+                </div>
+                <button onclick="calculateNumber()">Calculer</button>
+                <div class="result" id="num-result">Résultat</div>
+            </div>
+        </div>
+
+        <footer>
+            <p><strong>Architecture technique</strong></p>
+            <div class="tech-stack">
+                <span class="tech">
+                    <span class="tech-dot dot-html"></span>
+                    HTML/CSS/JS (Frontend)
+                </span>
+                <span class="tech">
+                    <span class="tech-dot dot-python"></span>
+                    Python Flask (Backend)
+                </span>
+                <span class="tech">
+                    <span class="tech-dot dot-cpp"></span>
+                    C++ (Calculs)
+                </span>
+            </div>
+            <p style="margin-top: 15px; font-size: 0.9rem;">
+                Les calculs sont effectués par une bibliothèque C++ compilée,<br>
+                appelée depuis Python via ctypes, et exposée via une API REST.
+            </p>
+        </footer>
+    </div>
+
+    <script>
+        async function apiCall(data) {
+            try {
+                const response = await fetch('/api/calculate', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                });
+                return await response.json();
+            } catch (error) {
+                return { error: 'Erreur de connexion' };
+            }
+        }
+
+        function showResult(elementId, result) {
+            const el = document.getElementById(elementId);
+            if (result.error) {
+                el.className = 'result error';
+                el.textContent = '❌ ' + result.error;
+            } else {
+                el.className = 'result success';
+                el.textContent = '✓ ' + result.result;
+            }
+        }
+
+        async function calculateBasic() {
+            const a = parseFloat(document.getElementById('basic-a').value);
+            const b = parseFloat(document.getElementById('basic-b').value);
+            const op = document.getElementById('basic-op').value;
+            
+            const result = await apiCall({ operation: op, a, b });
+            showResult('basic-result', result);
+        }
+
+        function toggleAdvancedInputs() {
+            const op = document.getElementById('adv-op').value;
+            const bGroup = document.getElementById('adv-b-group');
+            const aLabel = document.getElementById('adv-a-label');
+            const bLabel = document.getElementById('adv-b-label');
+            
+            if (op === 'sqrt') {
+                bGroup.style.display = 'none';
+                aLabel.textContent = 'Nombre';
+            } else if (op === 'power') {
+                bGroup.style.display = 'block';
+                aLabel.textContent = 'Base';
+                bLabel.textContent = 'Exposant';
+            } else {
+                bGroup.style.display = 'block';
+                aLabel.textContent = 'A';
+                bLabel.textContent = 'B';
+            }
+        }
+
+        async function calculateAdvanced() {
+            const a = parseFloat(document.getElementById('adv-a').value);
+            const b = parseFloat(document.getElementById('adv-b').value);
+            const op = document.getElementById('adv-op').value;
+            
+            let data;
+            if (op === 'power') {
+                data = { operation: op, base: a, exp: b };
+            } else if (op === 'sqrt') {
+                data = { operation: op, n: a };
+            } else {
+                data = { operation: op, a: Math.floor(a), b: Math.floor(b) };
+            }
+            
+            const result = await apiCall(data);
+            showResult('adv-result', result);
+        }
+
+        async function calculateNumber() {
+            const n = parseInt(document.getElementById('num-n').value);
+            const op = document.getElementById('num-op').value;
+            
+            const result = await apiCall({ operation: op, n });
+            showResult('num-result', result);
+        }
+
+        // Initialize
+        toggleAdvancedInputs();
+    </script>
+</body>
+</html>
